@@ -1,0 +1,16 @@
+# Audio data — never commit binaries to git. Regenerate via scripts/download_dolphin.py
+data/
+*.wav
+*.flac
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model artifacts
+*.pt
+*.ckpt
+checkpoints/
