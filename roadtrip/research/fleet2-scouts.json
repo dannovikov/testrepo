@@ -1,0 +1,825 @@
+[
+  {
+    "corridor": "Jocassee Gorges + NC-215 barbell to the Highland Scenic Highway: Seneca SC -> SC-130 Jocassee climb -> Upper Whitewater Falls -> NC-215 over the Blue Ridge Parkway at Beech Gap (5,340 ft) -> I-26 Sam's Gap / I-81 / I-77 twin-tunnel interstate midsection -> US-19 across the New River Gorge Bridge -> Summersville Lake -> WV-39 Fenwick-Richwood forest road -> Falls of Hills Creek -> Cranberry Glades -> WV-150 Highland Scenic Highway northbound at sunset -> US-219 to Elkins WV",
+    "terminus": "Elkins, WV (audible option: Corduroy Inn & Lodge at Snowshoe Village, 45 min earlier on the route, if running past ~9:30pm at the WV-150 north end)",
+    "totalDriveHours": 11.5,
+    "sceneryScore": 9,
+    "roadFunScore": 9,
+    "seclusionScore": 9,
+    "crowdRisk": "Very low overall \u2014 the lowest of any Mid-Atlantic corridor. Whitewater Falls at 10am Monday is the only moderate-exposure stop (50-car lot, fills midday with tour buses, but reviewers confirm 'no issue with parking during the morning'). New River Gorge Bridge visitor center is skippable if busy. Everything after Summersville (WV-39, Falls of Hills Creek, Cranberry Glades, all of WV-150) runs at 0-4 cars per stop even in peak season, and July 6 is the Monday exhale after the July 4th weekend \u2014 Snowshoe's holiday programming ends July 5 and Pocahontas County empties out.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (depart 9:15am)",
+        "to": "Upper Whitewater Falls overlook, Sapphire NC",
+        "route": "SC-183 -> SC-130 N (Jocassee Gorges climb past Lake Jocassee/Bad Creek) -> NC-281 N",
+        "driveMin": 55,
+        "highlight": "SC-130 is a smooth, empty two-lane climb through Jocassee Gorges; terminates at the highest waterfall east of the Rockies (411 ft) \u2014 paved 0.2-mi walk to the upper overlook, $3 fee, empty lot at 10am Monday"
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Rosman NC",
+        "route": "NC-281 N -> US-64 E through Lake Toxaway",
+        "driveMin": 30,
+        "highlight": "Rolling US-64 connector past Toxaway Falls (visible from the road bridge at 40 mph)"
+      },
+      {
+        "from": "Rosman NC",
+        "to": "Canton NC (I-40)",
+        "route": "NC-215 N over Beech Gap (Blue Ridge Parkway crossing, 5,340 ft) + 2-mi BRP jog east to Courthouse Valley Overlook, then NC-215 down the West Fork Pigeon",
+        "driveMin": 85,
+        "highlight": "The morning's driving high point: 7 miles of stacked hairpins south of the Parkway, well-canted curves, canopy tunnel, roadside Sunburst Falls pouring under a stone arch bridge on the descent \u2014 the quiet alternative to US-276 with a fraction of the Brevard traffic"
+      },
+      {
+        "from": "Canton NC",
+        "to": "Wytheville VA (fuel + fast lunch stop near Erwin TN or Abingdon VA)",
+        "route": "I-40 E -> I-26 N over Sam's Gap (scenic 3,760-ft interstate crossing) -> I-81 N",
+        "driveMin": 165,
+        "highlight": "The transit tax that buys the empty second half; I-26 over the TN line is legitimately one of America's prettiest interstates"
+      },
+      {
+        "from": "Wytheville VA",
+        "to": "Beckley WV",
+        "route": "I-77 N through Big Walker Mountain and East River Mountain tunnels (WV Turnpike, ~$8.50 total tolls)",
+        "driveMin": 85,
+        "highlight": "Two mountain-piercing tunnels and the Bluestone gorge crossing break up the slab miles"
+      },
+      {
+        "from": "Beckley WV",
+        "to": "Salmon Run boat launch, Summersville Lake",
+        "route": "US-19 N across the New River Gorge Bridge (optional 10-min Canyon Rim VC overlook), then Airport Rd below Summersville Dam",
+        "driveMin": 65,
+        "highlight": "~5:45pm: the Lake Hartwell moment recreated \u2014 a dead-end paved ramp into 45-ft-visibility water ('Little Bahamas of the East'), 4.6 stars from 51 reviewers, weekday evenings near-empty; park the 7er nose-to-water"
+      },
+      {
+        "from": "Summersville WV (last real fuel \u2014 fill up)",
+        "to": "Falls of Hills Creek",
+        "route": "WV-39 E through Fenwick and Richwood, official start of the Highland Scenic Byway",
+        "driveMin": 65,
+        "highlight": "Empty second-gear-to-fourth-gear forest sweepers along the Cherry River; Falls of Hills Creek upper falls is a 0.25-mi paved path to a 25-ft cascade, typically 0-2 other cars at 7pm"
+      },
+      {
+        "from": "Falls of Hills Creek",
+        "to": "Cranberry Glades Botanical Area",
+        "route": "WV-39 E past Cranberry Mountain Nature Center -> paved single-lane FR-102 spur dead-ending at the bog",
+        "driveMin": 15,
+        "highlight": "Golden hour on the 0.6-mi flat boardwalk through a 3,400-ft sub-arctic bog stranded from the last ice age \u2014 deer and occasional bears feeding in the open glades at dusk"
+      },
+      {
+        "from": "Cranberry Glades / WV-39-150 junction",
+        "to": "WV-150 north end at US-219 (Elk Mountain)",
+        "route": "WV-150 Highland Scenic Highway northbound, ~23 parkway miles cresting 4,500+ ft",
+        "driveMin": 55,
+        "highlight": "THE payoff, timed for sunset (~8:45pm): Cranberry Glades Overlook, Little Laurel, Big Spruce (accessible boardwalk at 4,530 ft), and Red Lick Overlook with a huge west-facing view for the sunset itself \u2014 commercial vehicles banned, no services, and per recent reviewers, essentially zero traffic"
+      },
+      {
+        "from": "WV-150 north end",
+        "to": "Holiday Inn Express & Suites Elkins WV (arrive ~10:30-10:45pm)",
+        "route": "US-219 N through Slatyfork, Valley Head and Huttonsville (Tygart Valley)",
+        "driveMin": 80,
+        "highlight": "Fast, flowing valley two-lane; drive it at 45-50 with high beams \u2014 this is peak deer corridor after dark"
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls overlook, NC (10:10am \u2014 411 ft, paved walk, morning-empty)",
+      "Courthouse Valley Overlook, Blue Ridge Parkway MP 423 (11:45am \u2014 drive-up 5,400-ft view of Devil's Courthouse)",
+      "Sunburst Falls stone-arch bridge, NC-215 (rolling stop on descent)",
+      "New River Gorge Bridge / Canyon Rim Visitor Center (5:15pm, optional \u2014 skip if lot looks busy)",
+      "Salmon Run boat launch, Summersville Lake (5:45pm \u2014 the deserted-dock stop)",
+      "Falls of Hills Creek, WV-39 (7:15pm \u2014 paved path to upper falls)",
+      "Cranberry Glades boardwalk via FR-102 (7:50pm golden hour)",
+      "WV-150 overlooks: Cranberry Glades OL, Little Laurel, Big Spruce boardwalk, Red Lick for the 8:45pm sunset"
+    ],
+    "secludedSpots": [
+      "Salmon Run Public Boat Launch, Summersville WV \u2014 paved dead-end ramp off Airport Rd below the dam into gin-clear water; restrooms, picnic tables, 24-hr access; reviewers call it 'an amazing alternative to the lake's beach' and advise weekday/off-hour visits, which is exactly what a Monday 5:45pm delivers",
+      "FR-102 Cranberry Glades spur \u2014 paved single-lane road dead-ending at the bog parking; classic connects-nothing-to-nothing side road, typically 3-4 cars max per recent reviews",
+      "Red Lick Overlook, WV-150 near the north end \u2014 paved drive-up pull-off with a massive west-facing view; at 8:45pm on a Monday the odds of sharing it are close to zero \u2014 the private-mountaintop smoke-spot of the trip",
+      "Big Spruce Overlook, WV-150 (4,530 ft) \u2014 paved lot plus short accessible boardwalk; one blogger who arrived at 4am for solitude found exactly ONE other car \u2014 that is this road's version of a crowd",
+      "Falls of Hills Creek upper falls, WV-39 \u2014 paved 0.25-mi path, forest amphitheater, usually deserted in the evening (note: only the upper-falls section is fully reliable; see concerns)",
+      "Bonus if ahead of schedule at 9:50am: Bad Creek Hydro Station access road off SC-130 \u2014 paved Duke Energy road (gate open daytime) dead-ending at empty Lake Jocassee/Lower Whitewater Falls overlook trailheads"
+    ],
+    "hotelOutlook": "Honest weakness, as pre-scored (hotelFit 5): there is NO 2019+ Marriott new-build within an hour of the byway. Elkins is still the right terminus \u2014 real hotels, food, fuel, and it tees up Seneca Rocks/Dolly Sods/US-33 for the next day. (1) Holiday Inn Express & Suites Elkins: ~$104-160/night, free surface lot, indoor pool, hot breakfast; clean and well-reviewed though built ~2009 and service reviews are mixed \u2014 the best brand-standard bed in town and effectively certain night-of on a post-holiday Monday (KAYAK shows from $98). (2) Hampton Inn Elkins (US-219/250 south of downtown): ~$140-175, free surface lot, consistently praised for cleanliness/staff in 2025 reviews; older build. (3) Audible 45 min earlier: Corduroy Inn & Lodge, Trademark Collection by Wyndham at Snowshoe Village \u2014 the mountain's boutique hotel at 4,848 ft, summer weekday rates from ~$90-150, surface/adjacent parking, sunset views; choose it if leaving WV-150 after ~9:30pm. All three take night-of bookings in the $150-200 envelope; none is a 2019+ new-build \u2014 that box simply cannot be checked in Pocahontas/Randolph County.",
+    "reviewEvidence": "Highland Scenic Highway (TripAdvisor, reviews through late 2025): 'little or no traffic anytime, unless there's a bike rally at Snowshoe'; reviewers advise driving slow to absorb the views and note restrooms at overlooks; Forest Service confirms four developed overlooks and no winter maintenance (irrelevant in July \u2014 road fully open, no current closure alerts; the recent FR-76 Cranberry Road project is listed complete). A WV Explorer feature (Sept 2025) and MidAtlantic DayTrips both frame it as 'West Virginia's best kept secret'; one blogger who drove up at 4am for sunrise found exactly one other car at Big Spruce. Cranberry Glades (TripAdvisor/AllTrails 2025): 'lightly used... never crowds,' 'maybe 3 to 4 other cars'; caveat \u2014 boardwalk 'needs serious work... unlevel in spots, boards broken,' one visitor found sections under a half-inch of water; wheelchair accessible regardless. Falls of Hills Creek: FS lists it open for the 2026 season (facilities from April 20); the lower/middle boardwalk has a history of storm-damage closures (a fallen tree took out part of the walkway in a recent season), so treat the paved upper-falls overlook as the guaranteed stop; an Aug 2025 visitor confirmed the fuller trail was walkable. Whitewater Falls (AllTrails ~1,500 reviews / TripAdvisor 2025): 'no issue with parking during the morning or late afternoon,' 50-car paved lot, crowds and tour buses only midday/weekends; best lower deck requires ~150 steps down \u2014 the driver can skip it, the upper paved overlook already delivers. Salmon Run, Summersville Lake: 4.6/5 from 51 reviewers, 'clearest freshwater east of the Mississippi' with up to 45-ft visibility; guides explicitly say avoid weekends/holidays and go off-hours \u2014 a Monday evening after July 4th is the ideal window. Elkins HIE: guests praise clean, comfortable rooms and location; recurring complaints are staff friendliness and pool/hot-tub downtime.",
+    "concerns": [
+      "Drive time is ~11.5h, 1.5h over the 10h core target; total day ~13.5h with stops, Elkins arrival ~10:30-10:45pm (inside the stated 9-11pm ceiling but at its edge). Pre-planned trims: skip the NC-215/BRP loop and run US-64->I-26 direct (saves ~60 min) or skip Canyon Rim and shorten lunch (saves ~30 min); or take the Snowshoe audible and save ~45 min at the end.",
+      "Final 80 minutes (US-219 Valley Head->Elkins) is driven in full darkness through dense deer habitat \u2014 a genuine hazard for a fast sedan; budget the slower pace quoted.",
+      "July afternoon thunderstorms build over both the Blue Ridge and the Alleghenies most days; a cell parked on WV-150 at 8pm can erase the sunset payoff. The itinerary has zero slack to wait out weather.",
+      "~4h15m of the day (Canton->Beckley) is pure interstate \u2014 the unavoidable tax for pairing two of the East's best road-trip endpoints; it will feel long after the NC-215 high.",
+      "No fuel, food, or services on WV-39 east of Richwood or anywhere on WV-150 \u2014 hard rule: fill the tank in Summersville. Also buy dinner-to-go there; Elkins kitchens are mostly closed by 10pm Monday.",
+      "Cell service is essentially zero from Richwood to Slatyfork (National Radio Quiet Zone fringe) \u2014 download offline maps for the whole WV segment before leaving Beckley.",
+      "Cranberry Glades boardwalk is showing deferred maintenance (broken/wet boards) and Falls of Hills Creek's lower boardwalk can be storm-closed without notice \u2014 the upper falls and the glades loop remain the reliable minimal-walk versions.",
+      "Whitewater Falls' knockout lower viewing deck costs 150 stair steps each way; the paved upper overlook is the no-walk version and is good, not jaw-dropping.",
+      "Hotel preference miss: no 2019+ Marriott-brand new-build exists at any viable terminus; best available is an HIE/Hampton pair in Elkins at $104-175 with free surface lots.",
+      "WV Turnpike tolls (~$8.50) and the $3 Whitewater Falls fee \u2014 trivial but bring a card/cash."
+    ],
+    "pitch": "This is the seclusion-maximalist's route: spend the morning carving SC-130's Jocassee climb and NC-215's canopy hairpins while the crowds sleep in, pay a four-hour interstate toll through three states, then get repaid with an entire evening where you may not see another moving car \u2014 a deserted boat ramp into the clearest lake in the East at 5:45, a paved-path waterfall and an ice-age bog at golden hour, and finally 23 miles of billiard-smooth, 4,500-ft parkway that connects nothing to nothing, timed so you're parked alone at Red Lick Overlook, nose to a fifty-mile view, when the sun goes down at 8:45. The day runs long and the hotel is a decent HIE rather than a new Fairfield, but on the day after July 4th this corridor delivers the single purest version of what this driver actually wants: a huge view, a great road, and nobody there."
+  },
+  {
+    "corridor": "Waterfall-to-Skyway Grand Corridor: Seneca SC \u2192 SC 130/NC 281 (Upper Whitewater Falls) \u2192 US 64 Cullasaja Gorge waterfall mile (Bridal Veil drive-up) \u2192 Franklin \u2192 Wayah Rd (NC 1310) along the Nantahala cascades and Nantahala Lake \u2192 Robbinsville/Santeetlah Gap \u2192 Cherohala Skyway (43 mi, mile-high sweepers) with Indian Boundary Lake side spur \u2192 Bald River Falls out-and-back on Tellico River Rd \u2192 TN 360 valley run \u2192 US 129 along Chilhowee Lake \u2192 Foothills Parkway West sunset finale at Look Rock \u2192 Maryville/Alcoa TN",
+    "terminus": "Maryville/Alcoa, TN (hotel cluster on Alcoa Hwy near Knoxville airport)",
+    "totalDriveHours": 8.7,
+    "sceneryScore": 9,
+    "roadFunScore": 10,
+    "seclusionScore": 9,
+    "crowdRisk": "Low-moderate (3/10). The Cherohala genuinely runs near-empty (~50 cars/100 bikes per DAY per Hagerty) and Monday July 6 is the post-holiday exhale. Two pinch points: the Highlands/Dry Falls tourist mile around midday (skippable \u2014 Bridal Veil is a 2-minute pull-off instead), and Bald River Falls, which reopened May 2025 after 2 years closed and is drawing pent-up crowds \u2014 but it's a from-the-car view, so even a busy bridge is a 10-minute stop. Look Rock draws a modest sunset crowd; every other overlook on the route will likely be empty or one-car.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (depart ~9:15am)",
+        "to": "Upper Whitewater Falls overlook, NC 281",
+        "route": "SC 183 \u2192 SC 130 N (becomes NC 281) through Sumter National Forest",
+        "driveMin": 50,
+        "highlight": "Warmup twisties through empty forest; arrive at the 411-ft highest falls east of the Rockies \u2014 paved walkway from the lot, $3 fee, near-empty at 10am Monday"
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Franklin NC via Highlands",
+        "route": "NC 281 N \u2192 US 64 W through Cashiers, Highlands, then the Cullasaja Gorge cliff road",
+        "driveMin": 85,
+        "highlight": "Bridal Veil Falls literally arcs over an old road spur beside US 64 (see it from the driver's seat); Dry Falls and Cullasaja Falls pull-offs optional; gorge section is a narrow rock-wall thriller"
+      },
+      {
+        "from": "Franklin NC",
+        "to": "Topton NC via Nantahala Lake",
+        "route": "Old Murphy Rd \u2192 Wayah Rd (NC 1310), 28 miles of forest S-curves",
+        "driveMin": 65,
+        "highlight": "The route's hidden gem: recently repaved flowing curves, Nantahala Lake shoreline with quiet boat-launch pull-ins (his Lake Hartwell dock moment), then a hairpin plunge down the gorge beside cascading whitewater"
+      },
+      {
+        "from": "Topton NC",
+        "to": "Cherohala Skyway east gate (Santeetlah Gap)",
+        "route": "US 129/74 N \u2192 NC 143 W through Robbinsville",
+        "driveMin": 40,
+        "highlight": "Optional 10-min spur to Cheoah Point on Lake Santeetlah \u2014 paved dead-end at a glass-calm mountain lake, usually deserted on weekdays"
+      },
+      {
+        "from": "Santeetlah Gap NC",
+        "to": "Tellico Plains TN",
+        "route": "Cherohala Skyway (NC 143/TN 165), 43 miles, crest 5,390 ft at Santeetlah Overlook",
+        "driveMin": 135,
+        "highlight": "Hagerty's 2025 Road of the Year: billiard-smooth mile-high sweepers, 15 paved overlooks mostly empty; includes 25-min side spur down the paved 1.2-mi road to Indian Boundary Lake \u2014 park facing the lake with Flats Mountain behind it, likely alone"
+      },
+      {
+        "from": "Tellico Plains TN",
+        "to": "Bald River Falls and back",
+        "route": "TN 165 E \u2192 Tellico River Rd (FR 210), 6 paved miles upriver each way",
+        "driveMin": 40,
+        "highlight": "100-ft waterfall visible from the driver's seat; brand-new (May 2025) two-lane bridge with observation deck, railings and benches; Baby Falls pull-off a half-mile further if the bridge lot is busy"
+      },
+      {
+        "from": "Tellico Plains TN",
+        "to": "Foothills Parkway west entrance, Chilhowee TN",
+        "route": "TN 360 N through quiet farm valley \u2192 TN 72 \u2192 US 129 N along Chilhowee/Calderwood lakes",
+        "driveMin": 70,
+        "highlight": "Decompression valley cruise, then the lake-hugging US 129 approach; the Tail of the Dragon is an optional 22-min detour south from Tabcat Bridge (skip it \u2014 sportbike crowds, tight 2nd-gear stuff)"
+      },
+      {
+        "from": "Chilhowee TN",
+        "to": "Maryville/Alcoa TN via Walland",
+        "route": "Foothills Parkway West, 33 mi (incl. 2018 repaved 'missing link') \u2192 US 321 W",
+        "driveMin": 75,
+        "highlight": "NPS-smooth sweepers with a dozen empty numbered overlooks; time Look Rock overlook for ~8:30pm sunset over the Smokies crest, then 25 easy minutes to the hotel by ~9:15pm"
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls overlook (NC 281) \u2014 411 ft, paved walk from lot",
+      "Bridal Veil Falls, US 64 Highlands NC \u2014 drive-up roadside waterfall",
+      "Nantahala Lake boat launch pull-ins, Wayah Rd \u2014 quiet lake moment",
+      "Santeetlah Overlook + Spirit Ridge, Cherohala Skyway \u2014 5,390 ft crest views",
+      "Indian Boundary Lake, Cherokee NF \u2014 paved spur off the Skyway",
+      "Bald River Falls, Tellico River Rd \u2014 from-the-car 100-ft falls with new observation deck",
+      "Look Rock Overlook, Foothills Parkway West \u2014 sunset finale"
+    ],
+    "secludedSpots": [
+      "Indian Boundary Lake day-use lot (1.2 mi fully paved off the Skyway at FR 345): park nose-to-water on a mountain lake ringed by forest; campground reviewers call it 'very quiet'; weekday afternoon you may share it with nobody",
+      "Cheoah Point Recreation Area spur on Lake Santeetlah (paved dead-end off US 129 near Robbinsville): tiny beach and picnic points on one of the least-developed lakes in the Southeast",
+      "Nantahala Lake shoreline pull-offs and Choga Rd boat ramp off Wayah Rd: paved access, glassy water, zero tourism infrastructure \u2014 the closest analog to his deserted Hartwell dock",
+      "Turkey Creek and Brushy Ridge overlooks on the TN side of the Cherohala: big paved aprons facing 50-mile views, routinely empty \u2014 prime private 'smoke spot' energy",
+      "Foothills Parkway West numbered overlooks #4-#14 between Chilhowee and Look Rock: perfect fresh NPS asphalt, huge Smokies-crest views, and on a Monday evening most sit empty",
+      "Baby Falls pull-off on Tellico River Rd (paved), 0.5 mi past Bald River Falls: river-level cascade with a gravel-free shoulder, far fewer people than the main bridge"
+    ],
+    "hotelOutlook": "Strong fit. Alcoa's airport strip has a cluster of 2019-2020 new-builds, all with free surface lots and reliable night-of availability (airport submarket, not a resort market): (1) Courtyard by Marriott Knoxville Airport Alcoa (opened 2020) \u2014 the Marriott-brand pick, typically $160-190 summer weeknights; (2) Tru by Hilton Alcoa Knoxville Airport \u2014 cheapest at roughly $95-140 (Kayak avg $115), free parking and breakfast, though recent guest reviews are mixed on housekeeping, so inspect the room; (3) Home2 Suites by Hilton Alcoa Knoxville Airport \u2014 new-build suites usually $140-180. A Monday night after July 4th weekend is about the softest pricing of the summer; all three should clear the $150-200 cap with room to spare, and Maryville proper adds a Hampton Inn fallback.",
+    "reviewEvidence": "Cherohala Skyway: named Hagerty's Road of the Year 2025 (hagerty.com), which describes 43 miles of smooth asphalt to a mile-high crest and traffic so light it's 'gloriously empty' \u2014 commenters cite 'negligible traffic, exquisite scenery' and estimates of ~50 cars/100 motorcycles per day; TripAdvisor 2025 reviewers call it 'similar to the Blue Ridge Parkway without the traffic' and 'minimal traffic, terrific scenery, plenty of curves,' with 15 well-maintained overlooks. Bald River Falls: WVLT and WBIR (May-July 2025) confirm the falls reopened May 30, 2025 after a nearly 2-year bridge replacement; the new two-lane bridge adds an observation deck with railings and benches, and officials warned of an 'influx of people' and heavier traffic post-reopening \u2014 the Forest Service recreation page currently flags high visitation, so treat it as a quick-hit stop, not a linger. Whitewater Falls: Forest Service and RomanticAsheville confirm the site is open year-round with a wheelchair-accessible paved walkway to the upper overlook; no Helene closure on record for this site, though US 64 in the Cullasaja Gorge has a documented history of washout closures (WLOS, Jan 2024) \u2014 verify DriveNC.gov morning-of. Wayah Rd: motorcycleroads.com and RoadRunner call it 'the hidden gem of the Nantahala Forest,' 'less travelled... a great drive for sports cars,' recently repaved in sections, with a caution that the final tight climb collects gravel from driveways. Look Rock/Foothills West: guides (smokymountains.com, backyardknoxville.com) say it is 'rarely crowded' versus anything inside the national park, with the paved half-mile tower walk optional and sunset the one time you'll have company.",
+    "concerns": [
+      "Bald River Falls is in its first fully-open summer since the 2025 reopening and the Forest Service flags high visitation \u2014 a mid-afternoon Monday arrival (~3:30-4pm) is the mitigation, and the small bridge-area parking can still require a second pass",
+      "Highlands/Cashiers on US 64 is exactly the tourist strip he hates; plan to roll through without stopping and skip Dry Falls if the lot looks full (Bridal Veil covers the waterfall need in 2 minutes)",
+      "US 64 through Cullasaja Gorge is narrow, shoulderless, and has a history of storm washout closures (closed weeks in Jan 2024) \u2014 check DriveNC.gov at breakfast; detour via US 441 through Clayton GA to Franklin costs nothing timewise but loses the gorge",
+      "Afternoon thunderstorms and sudden fog are routine on the mile-high Cherohala crest in July; the road is safe but views can vanish for 20 minutes at a time \u2014 overlook-hop patiently",
+      "Wayah Rd's final climb out of the Nantahala Gorge has tight hairpins notorious for driveway gravel on the apex \u2014 an easy pace there in a 7 Series, and the road's narrow bridges deserve respect",
+      "43 Skyway miles have zero fuel, food, or cell service \u2014 fill the tank in Franklin or Robbinsville and download offline maps before Santeetlah Gap",
+      "Total day runs ~12 hours door-to-door with all stops; if running late, the pressure valve is skipping the Foothills Parkway finale and taking US 411 from Vonore straight to Maryville (saves ~75 min, sacrifices the sunset)",
+      "Tru Alcoa is the cheapest qualifying hotel but has mixed recent cleanliness reviews \u2014 the Courtyard is the safer $170ish night-of book"
+    ],
+    "pitch": "This is the strongest possible expression of what he loves: three of the Southeast's best driving roads (Wayah, Cherohala, Foothills West) chained by drive-up waterfalls, with the crown jewel \u2014 Hagerty's 2025 Road of the Year \u2014 running at ~50 cars a day. He gets a 411-ft waterfall before lunch, a deserted mountain lake to park facing at golden hour minus five, a 100-ft waterfall viewed from the driver's seat on a brand-new bridge, and a private-feeling Smokies sunset at Look Rock, all on pavement a 7 Series will love, landing at a $115-190 new-build with a surface lot. The only real compromises are 30 touristy minutes around Highlands and a newly-famous Bald River Falls \u2014 both engineered here into pass-throughs, not anchors."
+  },
+  {
+    "corridor": "Jocassee Gorges + Blue Ridge Parkway Pisgah Ridge + I-26 Sams Gap + Goshen Pass/VA-42 Valley Run: Seneca SC \u2192 SC-130/Wigington Byway \u2192 Whitewater Falls \u2192 NC-215 \u2192 Blue Ridge Parkway (MP 423\u2192393) \u2192 I-26 W over Sams Gap \u2192 I-81 N \u2192 VA-39 Goshen Pass \u2192 VA-42 \u2192 VA-257/Briery Branch Rd \u2192 FR 85 to Reddish Knob summit at sunset \u2192 down to Harrisonburg",
+    "terminus": "Reddish Knob summit (4,397 ft, George Washington NF) for sunset ~8:45pm, then Harrisonburg VA for the night (45-50 min back down)",
+    "totalDriveHours": 10.7,
+    "sceneryScore": 9,
+    "roadFunScore": 8,
+    "seclusionScore": 9,
+    "crowdRisk": "Low overall \u2014 Monday July 6, the day the July-4th crowd goes home. Only real hotspot is the BRP Black Balsam/Graveyard Fields zone around midday (parking 'fills up quickly' per recent guides); treat it as a drive-through with one 10-min spur. Whitewater Falls at 10am Monday should be light (crowd warnings are for weekends). Reddish Knob at sunset: 2025 reviews explicitly say 'not crowded' \u2014 expect 0-3 cars of locals.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (dep ~9:15am)",
+        "to": "Whitewater Falls, NC (via Wigington Overlook)",
+        "route": "SC-130 N \u2192 SC-413 Wigington Scenic Byway \u2192 NC-281 N",
+        "driveMin": 50,
+        "highlight": "Warm-up sweepers into the Jocassee Gorges. 2-min detour to Wigington Overlook \u2014 an empty paved pull-off staring down at Lake Jocassee, classic nobody-there smoke spot. Then Whitewater Falls: 411 ft, highest falls east of the Rockies, 0.2-mi paved wheelchair-grade path to the upper overlook ($3 fee). Skip the 154 stairs to the lower deck."
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Beech Gap (Blue Ridge Parkway entrance, MP 423.2)",
+        "route": "NC-281 N \u2192 US-64 E past Lake Toxaway \u2192 NC-215 N",
+        "driveMin": 70,
+        "highlight": "NC-215 is the sleeper driver's road of the day: 17 miles of climbing sweepers up the North Fork French Broad canyon, waterfalls at the roadside, almost zero traffic \u2014 a Tail-of-the-Dragon-quality surface without the motorcycles."
+      },
+      {
+        "from": "Beech Gap",
+        "to": "NC-191/Asheville exit (BRP MP 393.6)",
+        "route": "Blue Ridge Parkway northbound along the Pisgah Ridge",
+        "driveMin": 65,
+        "highlight": "The highest, best 30 miles of the BRP that are fully open (NPS confirms MP 380-469 all open as of July 4, 2026). Devil's Courthouse overlook at MP 422.4 (park-and-stare), 1.2-mi paved dead-end spur up FS 816/Black Balsam Rd to a paved circular lot in 6,000-ft alpine meadows, then Looking Glass Rock overlook \u2014 the granite dome fills the windshield."
+      },
+      {
+        "from": "Asheville (NC-191/Brevard Rd)",
+        "to": "I-26/I-81 junction, TN",
+        "route": "I-26 W over Sams Gap",
+        "driveMin": 70,
+        "highlight": "Arguably the most scenic interstate in the East: a 3,800-ft mountain crossing with long 70-mph sweepers, runaway-truck ramps, and Bald Mountains panoramas. Fuel + quick lunch grab before Asheville."
+      },
+      {
+        "from": "I-26/I-81 junction",
+        "to": "Lexington VA (exit 188)",
+        "route": "I-81 N up the Great Valley",
+        "driveMin": 185,
+        "highlight": "The transit leg \u2014 206 miles of ridge-and-valley scenery at cruise speed. This is the toll the day pays for two mountain playgrounds on either end. Coffee/fuel in Lexington."
+      },
+      {
+        "from": "Lexington VA",
+        "to": "Goshen Pass",
+        "route": "US-11 \u2192 VA-39 W along the Maury River",
+        "driveMin": 30,
+        "highlight": "VA-39 threads a rock-walled gorge shoulder-to-shoulder with the Maury River \u2014 'arguably one of the prettiest routes in Virginia.' Unmarked paved pull-offs over the rapids; the stone-shelter wayside is the 15-min stop. Curvy, few guardrails, nearly empty on a Monday evening."
+      },
+      {
+        "from": "Goshen",
+        "to": "Dayton VA",
+        "route": "VA-42 N through Craigsville, Buffalo Gap, Churchville, Bridgewater",
+        "driveMin": 75,
+        "highlight": "Dead-quiet two-lane up the Little Calfpasture and Shenandoah Valley floor \u2014 silos, ridgelines going gold in evening light, and practically no cars. The anti-interstate palate cleanser."
+      },
+      {
+        "from": "Dayton VA",
+        "to": "Reddish Knob summit (arrive ~8:40-8:50pm, sunset 8:45)",
+        "route": "VA-257 W / Briery Branch Rd \u2192 FR 85 (paved one-lane) to the summit lot",
+        "driveMin": 50,
+        "highlight": "Past Briery Branch Reservoir, then 7 miles of one-lane paved ridge road with Armco, dead-ending on a paved 4,397-ft summit lot with a 360-degree view into West Virginia. Park nose-out at the western rim: the entire smoke-spot fantasy, delivered at sunset."
+      },
+      {
+        "from": "Reddish Knob",
+        "to": "Harrisonburg VA hotel (~9:45-10:00pm)",
+        "route": "FR 85 \u2192 VA-257 E \u2192 VA-42 N",
+        "driveMin": 50,
+        "highlight": "Slow, high-beams descent of the one-lane (deer are the hazard, not the pavement), then easy valley roads into Harrisonburg."
+      }
+    ],
+    "keyStops": [
+      "Wigington Overlook, SC-413 (Lake Jocassee, usually deserted)",
+      "Whitewater Falls upper overlook, NC-281 (0.2-mi paved walk, 411-ft falls)",
+      "Devil's Courthouse Overlook, BRP MP 422.4 (view from the car)",
+      "Black Balsam Rd / FS 816 end-of-road paved lot, BRP MP 420.2",
+      "Looking Glass Rock Overlook, BRP MP 417",
+      "Goshen Pass wayside + river pull-offs, VA-39",
+      "Reddish Knob summit, FR 85 (the terminus event, timed for sunset)"
+    ],
+    "secludedSpots": [
+      "Wigington Overlook (SC-413, Salem SC): paved pull-through lot high above Lake Jocassee on a byway most Whitewater Falls traffic skips \u2014 routinely zero cars at 10am.",
+      "FS 816 / Black Balsam Rd terminus (BRP MP 420.2): 1.2-mile paved spur ending in a real paved circular lot at ~6,000 ft in open balds; the one seclusion wildcard midday \u2014 if shoulders are lined with hiker cars, roll to the end lot, look, and leave.",
+      "Goshen Pass unmarked pull-offs (VA-39): several small paved/graded turnouts hanging directly over Maury River rapids; on a Monday at 6:30pm the swimmers near the east end are gone and the upper gorge turnouts are empty.",
+      "Briery Branch Reservoir (VA-924/Briery Branch Rd): tiny mountain lake right against the pavement at the base of the Reddish Knob climb \u2014 a 5-min quiet-lake pause with zero walking, strong Lake-Hartwell-dock energy.",
+      "Reddish Knob summit + FR 85 ridge (paved one-lane the whole way): the crown jewel \u2014 the road itself is the seclusion filter; 2025 reviewers report it 'not crowded' even at sunset. Skip nearby Hone Quarry Lake (FR 62) unless in the mood for ~0.7 mi of decent gravel \u2014 optional for the 7 Series, not required."
+    ],
+    "hotelOutlook": "Strong. Harrisonburg (JMU college town, quiet in July, Monday night post-holiday) books night-of easily in range: (1) Home2 Suites by Hilton Harrisonburg University \u2014 brand-new build, opened May 2025, free surface lot, typically ~$140-180; the best rubric match. (2) Hyatt Place Harrisonburg \u2014 opened Dec 2021, modern, rooftop dining, free surface parking, ~$150-190. (3) Holiday Inn Express & Suites Harrisonburg - University Area \u2014 opened Sept 2021, ~$130-165. Marriott's Fairfield Inn & Suites Harrisonburg exists and has free parking but is an older renovated property, so it's the brand-loyalty fallback rather than the new-build pick. All are off I-81 exits 245-247, 40-50 min from the summit.",
+    "reviewEvidence": "Reddish Knob: TripAdvisor/AllTrails reviewers in 2025 call it 'not crowded' with 'gorgeous vistas' \u2014 the recurring gripes are the summit lot 'pocked with graffiti' (some love it, some hate it) and the narrow, pothole-dotted one-lane approach; a March 2026 trail report confirms the paved route from Briery Branch Rd to the overlook is open ('a little wet, a touch slippery before the overlook'), and onX/Friends of Shenandoah Mountain describe FR 85 as 'one vehicle wide pavement with Armco' with a paved lot on top \u2014 fine at 15-20 mph in a 7 Series, honk-and-ease on blind bends. Whitewater Falls: recent reviews praise the 'nice short, paved walk to the observation deck\u2026designed for tourists, wheelchairs' but warn 'parking can fill up very quickly, especially on weekends' \u2014 a Monday 10am arrival dodges that; USFS page (updated Jan 5, 2026) shows the site operational post-Helene. Blue Ridge Parkway: NPS road-status page checked July 4, 2026 shows every segment MP 380-469 OPEN (the Helene landslide at MP 401.5 was repaired, restoring 38 continuous miles), with only possible short single-lane control for I-26 bridge work at MP 388.8-393.6 \u2014 beyond this route's exit. Black Balsam: 2025-26 guides say shoulders 'fill up quickly' in summer but note the end of FS 816 has 'a real, paved, circular lot.' Goshen Pass: reviewers call it 'arguably one of the prettiest routes in Virginia' and 'stunning,' cautioning the road is 'very curvy with steep drop-offs and few guard rails' \u2014 which for this driver is the selling point.",
+    "concerns": [
+      "The middle of the day is ~3h15m of I-81 \u2014 heavy truck traffic and zero romance; it is the unavoidable price of pairing the Pisgah ridge with Reddish Knob in one day.",
+      "Sunset timing is tight: the schedule lands on the summit ~8:40-8:50pm vs 8:45 sunset. Bail-out lever: skip the Goshen Pass/VA-42 loop and stay on I-81 to exit 240 (Bridgewater) \u2014 saves ~35 min and guarantees golden hour on top.",
+      "July afternoon thunderstorms: the summit is fully exposed and the payoff is the view \u2014 if radar shows storms over the Alleghenies at 7pm, flip the evening (hotel check-in first, summit at dawn Tuesday, which reviewers also rave about).",
+      "Final 7 miles (FR 85) are one-lane with potholes and no centerline; meeting a pickup means someone reverses to a pull-out. Descending after dark: deer, use the horn on hairpins.",
+      "Summit graffiti is extensive per multiple reviews \u2014 the view is 10/10, the foreground concrete is not.",
+      "Black Balsam/Graveyard Fields BRP zone will have midday hikers even Monday; the route treats it as a rolling viewpoint, not a linger stop.",
+      "Total day runs ~12.5-13 hours door-to-door (10.7h driving) \u2014 inside the 14h stretch budget but a real day; both fuel stops (Asheville, Lexington) are load-bearing."
+    ],
+    "pitch": "Front-load the fun (Jocassee overlooks, a 411-ft drive-up waterfall, NC-215's empty sweepers, and the highest open miles of the Blue Ridge Parkway), pay the I-81 toll through the middle, then cash out with Goshen Pass river curves, an empty Shenandoah Valley two-lane, and a one-lane paved road that dead-ends on a 4,397-ft summit at exactly sunset \u2014 360 degrees into West Virginia, graffiti underfoot, nobody around, and a brand-new Home2 Suites 50 minutes downhill."
+  },
+  {
+    "corridor": "Foothills Waterfall Country -> NC-215 Forest Heritage Byway over the Blue Ridge crest -> I-26/I-81 transit -> Goshen Pass -> Warm Springs -> US-220 Jackson River valley -> Monterey -> US-250 over Shenandoah Mountain into Staunton",
+    "terminus": "Staunton, VA (finale: US-250 eastbound over Monterey/Shenandoah Mountains at golden hour)",
+    "totalDriveHours": 10.7,
+    "sceneryScore": 9,
+    "roadFunScore": 9,
+    "seclusionScore": 9,
+    "crowdRisk": "Low. The two crowd magnets are neutralized by timing: Whitewater Falls at ~10am Monday (USFS explicitly warns only about midday/holiday volume) and Goshen Pass's swimming beach is passed, not lingered at, with 15-20 dispersed pull-offs to pick an empty one. Everything after Lexington VA is genuinely empty: Bath and Highland counties have ~2,200 and ~2,800 residents in areas bigger than some states' counties. Monday after July 4th = weekenders gone.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (dep 9:00am)",
+        "to": "Upper Whitewater Falls, NC",
+        "route": "SC-130 N (Whitewater Falls Rd) past Salem, becomes NC-281",
+        "driveMin": 50,
+        "highlight": "Warm-up sweepers through Jocassee Gorges; optional 5-min paved spur to Wigington Overlook (Lake Jocassee view, usually deserted). Arrive the 411-ft falls ~9:50am before anyone else."
+      },
+      {
+        "from": "Upper Whitewater Falls",
+        "to": "Rosman, NC",
+        "route": "NC-281 N to US-64 E via Lake Toxaway",
+        "driveMin": 35,
+        "highlight": "Twisty forest two-lane along the Toxaway rim; last cheap gas at Rosman."
+      },
+      {
+        "from": "Rosman, NC",
+        "to": "Beech Gap (Blue Ridge Parkway crossing), NC",
+        "route": "NC-215 N \u2014 Forest Heritage National Scenic Byway",
+        "driveMin": 40,
+        "highlight": "17 miles of banked, well-paved switchbacks climbing 2,900 ft along the North Fork French Broad; roadside cascades with tiny unmarked pull-offs, near-zero traffic."
+      },
+      {
+        "from": "Beech Gap",
+        "to": "Devil's Courthouse Overlook out-and-back (BRP MP 422.4)",
+        "route": "Blue Ridge Parkway E 2.5 mi and back",
+        "driveMin": 15,
+        "highlight": "5,720-ft rock dome viewed from the parking pull-off itself \u2014 no walk needed; this BRP section reopened Aug 2025 after the Helene landslide."
+      },
+      {
+        "from": "Beech Gap",
+        "to": "Canton, NC (I-40)",
+        "route": "NC-215 N down the West Fork Pigeon River past Lake Logan",
+        "driveMin": 40,
+        "highlight": "Sunburst Falls pours under the 1930s stone-arch bridge directly beside the road \u2014 pull-off photo stop, zero walking."
+      },
+      {
+        "from": "Canton, NC",
+        "to": "Lexington, VA (lunch/fuel en route ~Wytheville)",
+        "route": "I-40 E -> I-26 E over Sam's Gap -> I-81 N",
+        "driveMin": 265,
+        "highlight": "The necessary transit block. I-26 over the TN line is genuinely pretty interstate; cruise-control recovery time for the big finale. Lunch ~1:45pm at a Wytheville exit."
+      },
+      {
+        "from": "Lexington, VA",
+        "to": "Goshen Pass, VA",
+        "route": "US-11 N -> VA-39 W through Rockbridge Baths",
+        "driveMin": 30,
+        "highlight": "VA-39 enters the Maury River gorge; sheer walls, rhododendron, river rapids right off the shoulder."
+      },
+      {
+        "from": "Goshen Pass",
+        "to": "Warm Springs, VA",
+        "route": "VA-39 W through Goshen and Millboro Springs",
+        "driveMin": 40,
+        "highlight": "Empty ridge-and-valley two-lane into Bath County; drive-by of the 1761 Jefferson Pools bathhouses at the VA-39/US-220 junction."
+      },
+      {
+        "from": "Warm Springs, VA",
+        "to": "Monterey, VA",
+        "route": "US-220 N up the Jackson River headwaters via Bolar",
+        "driveMin": 55,
+        "highlight": "The quietest stretch of the day \u2014 high pastures, weathered barns, maybe five cars total. Optional Hidden Valley gravel spur near the start."
+      },
+      {
+        "from": "Monterey, VA",
+        "to": "Staunton, VA (arr ~9:00-9:15pm)",
+        "route": "US-250 E over Monterey Mountain, the Bullpasture/Cowpasture valleys, and Shenandoah Mountain",
+        "driveMin": 70,
+        "highlight": "The headline act: three mountain crests of banked, superbly paved switchbacks with almost no traffic. Confederate Breastworks summit overlook ~8:00pm for the sunset 'smoke spot,' then descend into Staunton in twilight."
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls, Sapphire NC \u2014 411 ft, highest falls east of the Rockies; 0.2-mi paved path from the lot, $3/vehicle, ~10am = near-empty",
+      "Devil's Courthouse Overlook, Blue Ridge Parkway MP 422.4 \u2014 view from the parking area at 5,462 ft",
+      "Sunburst Falls, NC-215 (7 mi south of Lake Logan) \u2014 waterfall flows under the stone highway bridge, roadside pull-off",
+      "Goshen Pass Overlook & waysides, VA-39 \u2014 Maury River gorge pull-offs and the Matthew Fontaine Maury monument",
+      "Jefferson Pools / Warm Springs, VA \u2014 2-minute historic drive-by at VA-39 x US-220",
+      "Monterey, VA \u2014 'Virginia's Switzerland' main street; quick coffee/pie if High's is still open (~7pm)",
+      "Confederate Breastworks Interpretive Site, US-250 atop Shenandoah Mountain (West Augusta, VA) \u2014 drive-up summit lot facing west over the Cowpasture valley folds; sunset finale"
+    ],
+    "secludedSpots": [
+      "Wigington Overlook, Oscar Wigington Scenic Byway (SC-413 spur off SC-130) \u2014 fully paved 1-mile byway to a Lake Jocassee overlook pull-off; almost nobody uses it since the byway dead-ends at Whitewater Rd",
+      "Unmarked cascade pull-offs on upper NC-215 south of Beech Gap (Bubbling Spring Branch area) \u2014 paved shoulder gravel patches, cascades 30 ft from the car, no signage so no crowds",
+      "Hidden Valley Rd (SR 621 -> FR 241), Warm Springs VA \u2014 ~1.5 mi of smooth graded Forest Service gravel dead-ending at the 1848 Warwickton mansion meadow on the Jackson River (the 'Sommersby' film site); huge lonely valley, sedan-fine at low speed if dry",
+      "Blue Grass Valley Rd (SR 642/640) west of Monterey \u2014 fully PAVED farm lane through the 'Switzerland' valley of Blue Grass, VA; out-and-back 15 min, likely zero other cars at dusk",
+      "Braley Pond Day Use Area, off US-250 east of Shenandoah Mountain (FR 348.1) \u2014 ~0.5 mi of decent gravel to a still mountain pond with a grassy bank; classic park-facing-the-water spot, rarely more than one other vehicle on a weekday evening"
+    ],
+    "hotelOutlook": "Strong and cheap \u2014 Staunton is a value market. (1) Tru by Hilton Staunton, 120 Crossing Way (opened 2020, exactly the modern new-build profile): Kayak shows rates from ~$107, typically $115-150 midweek July, free surface lot, books night-of easily. (2) Fairfield Inn & Suites Staunton, I-81 exit 222 (Marriott preference satisfied, renovated but mid-2000s build): from ~$144, free surface parking, indoor saline pool. (3) Home2/Hampton overflow 25 min north in Harrisonburg if Staunton spikes. Monday July 6 occupancy will be low post-holiday; expect to land under the $150-200 budget. Weak spot: no Courtyard/AC/TownePlace in Staunton proper, and Tru is Hilton not Marriott \u2014 Fairfield is the brand-preference play, Tru is the newer building.",
+    "reviewEvidence": "US-250 west of Staunton is beloved by riders precisely for this car: a GL1800 forum trip report calls it \"one of the nicest roads I have ever ridden... traffic was extremely light and the road surface was in very good condition over the entire distance,\" noting curves paved extra-wide and nicely banked for logging trucks \u2014 ideal for a 7 Series. TripAdvisor's 2026-updated Confederate Breastworks page describes a small parking lot with the open view and interpretive signs right at the lot (0.5-mi loop optional), and warns of no cell coverage \u2014 i.e., nobody's there. On the NC side, the NPS confirms the Devil's Courthouse section (MP 420.2-423.2) reopened in Aug 2025 after the Helene landslide, and NC-215 is fully open \u2014 it's the NCDOT/NPS-endorsed detour around remaining Pisgah parkway closures. The USFS page for Whitewater Falls lists it open dawn-dusk, $3/vehicle, and explicitly warns of \"extremely high visitor volume during the middle of the day and on holidays,\" recommending morning visits \u2014 which is exactly when this route arrives (10am Monday). Goshen Pass reviewers call it \"an absolutely beautiful view of the Maury River... a hidden gem\" with no facilities and only 15-20 pull-off spaces; summer swimmers cluster at the one gravel beach, and reviewers note you can \"escape the crowds and find your own private rocky island.\"",
+    "concerns": [
+      "The midday reality: ~4.5 hours of I-26/I-81 interstate (Canton NC to Lexington VA) is unavoidable to buy the two elite bookends; I-81 truck traffic and summer fender-benders can add 30-45 min.",
+      "Long day: ~10.7 h driving, ~12-12.5 h door to door, arrival ~9:15pm. If any stop runs long, the Confederate Breastworks sunset slips to twilight \u2014 the pressure-release valve is skipping the Devil's Courthouse out-and-back or the Hidden Valley spur.",
+      "July afternoon thunderstorms build over both the Blue Ridge crest (NC-215/BRP, ~1-3pm window) and the Alleghenies (evening); a socked-in Shenandoah Mountain would gut the finale view.",
+      "Helene residue: BRP status should be re-checked at nps.gov/blri the morning of \u2014 sections have re-closed intermittently for repair work through 2025-26; NC-215's north half has patched pavement sections. If BRP MP 420-423 is closed, skip Devil's Courthouse (NC-215 itself is the attraction).",
+      "Whitewater Falls' lower-overlook staircase (154 steps) has had post-storm closures; plan on the main paved overlook only. Some woody debris still visible in the corridor.",
+      "Dinner risk: Monterey's few restaurants close ~7-8pm and Staunton kitchens wind down by 9-10pm Monday; eat a real lunch at Wytheville or grab food in Monterey before the final mountain crossing.",
+      "Hidden Valley's last 1.5 mi is Forest Service gravel \u2014 normally smooth and sedan-fine, but skip it after heavy rain in the low-slung M Sport.",
+      "No cell coverage from Goshen Pass through Monterey to the Shenandoah Mountain summit \u2014 download offline maps and book the Staunton hotel from Lexington or Warm Springs, not later."
+    ],
+    "pitch": "Two of the East's best driving roads bolted onto one day: morning on NC-215's banked Blue Ridge switchbacks with a deserted 411-ft waterfall as the opener, then an evening crescendo through the two emptiest counties in Virginia \u2014 Goshen Pass's river gorge, a gravel dead-end at an 1848 mansion nobody visits, the paved 'Switzerland' valley at Blue Grass, and finally US-250's wide, perfectly banked sweepers over three mountain crests to a drive-up summit overlook you'll almost certainly have alone at sunset, before rolling downhill into a $130 new-build Tru in Staunton."
+  },
+  {
+    "corridor": "Cherokee Foothills\u2013Big Walker\u2013High Plateau run: SC-11 Cherokee Foothills Scenic Highway out of Seneca, I-85/I-77 over the Blue Ridge at Fancy Gap, US-52 Big Walker Mountain Scenic Byway at Wytheville, I-81 up the Shenandoah Valley, I-70/I-99 through Bedford\u2013Altoona ridge country, then the payoff: PA-144 High Plateau Scenic Byway (Snow Shoe to Renovo) and PA-120 Bucktail Scenic Byway river canyon to the Hyner View summit road for sunset.",
+    "terminus": "Hyner View State Park, PA (sunset stop) \u2192 overnight at Mill Hall/Lock Haven, PA (I-80 exit 173), 30-35 min past the park; Williamsport is the 55-min fallback with more hotel choice",
+    "totalDriveHours": 12.5,
+    "sceneryScore": 8.5,
+    "roadFunScore": 8.5,
+    "seclusionScore": 9,
+    "crowdRisk": "Low (2/10). Monday July 6 is the emptiest travel day of the summer \u2014 holiday traffic went home Sunday. Hyner View sees 50-100 visitors on WEEKENDS and near-zero midweek evenings; PA-144 and the Renovo canyon are empty on any day; Big Walker Lookout is the only stop with any tourist energy (small country store, not a strip).",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (dep 9:00am sharp)",
+        "to": "Gaffney SC (I-85 exit 92)",
+        "route": "SC-183 through Pickens \u2192 SC-8 \u2192 SC-11 Cherokee Foothills Scenic Highway east past Table Rock, Caesars Head foot, Hogback Mtn, Cowpens",
+        "driveMin": 115,
+        "highlight": "Empty Monday-morning sweepers under the Blue Ridge escarpment; 10-min pull-off at the Table Rock Scenic Overlook on Lake Oolenoy (drive-up, granite dome mirrored in the lake, usually just fishermen)"
+      },
+      {
+        "from": "Gaffney SC",
+        "to": "Bland VA (I-77 exit 52)",
+        "route": "I-85 N \u2192 I-77 N through Charlotte \u2192 Fancy Gap climb into VA",
+        "driveMin": 160,
+        "highlight": "The I-77 Fancy Gap ascent is genuinely scenic interstate \u2014 1,300 ft of sweeping climb up the Blue Ridge wall; fuel at Wytheville side"
+      },
+      {
+        "from": "Bland VA",
+        "to": "Wytheville VA (I-81/I-77 junction)",
+        "route": "US-52 S \u2014 Big Walker Mountain National Forest Scenic Byway over the 3,400-ft summit",
+        "driveMin": 25,
+        "highlight": "FLEX STOP (skip if >20 min behind): twisty byway crest with Big Walker Lookout \u2014 360\u00b0 five-state view, $8 100-step tower, ice cream at the BW Country Store; adds only ~20 min vs staying on I-77 through the tunnel"
+      },
+      {
+        "from": "Wytheville VA",
+        "to": "Hagerstown MD (I-70 junction)",
+        "route": "I-81 N the length of the Shenandoah Valley (Christiansburg, Roanoke, Lexington, Harrisonburg, Winchester)",
+        "driveMin": 185,
+        "highlight": "The workhorse leg \u2014 ridgelines both sides but it is interstate slog; grab-and-go lunch + fuel at Lexington or New Market, keep it to 25 min. Truck traffic is the tax you pay for the PA finale"
+      },
+      {
+        "from": "Hagerstown MD",
+        "to": "Snow Shoe PA (I-80 exit 147)",
+        "route": "I-70 W \u2192 Breezewood \u2192 US-220/I-99 N past Bedford and Altoona \u2192 I-99 \u2192 I-80 E one exit",
+        "driveMin": 160,
+        "highlight": "I-99 is the prettiest free-flowing 70-mph road of the day \u2014 carved benches through ridge-and-valley country past the Altoona horseshoe curve region; quick stretch at a Sheetz in Bald Eagle"
+      },
+      {
+        "from": "Snow Shoe PA",
+        "to": "Hyner View State Park (arrive ~8:15-8:40pm, sunset 8:45)",
+        "route": "PA-144 N High Plateau Scenic Byway 34 mi across Sproul State Forest \u2192 Renovo \u2192 PA-120 E 6 mi \u2192 Hyner View Rd steep paved summit climb",
+        "driveMin": 70,
+        "highlight": "The headline: 34 miles with essentially zero traffic across PA's emptiest plateau \u2014 pull-offs at Fish Dam Wild Area Vista and Two Rock Run Vista, then tightening switchbacks dropping 1,000+ ft into Renovo; finish on the CCC stone terrace 1,300 ft above the West Branch Susquehanna, very likely alone at sunset"
+      },
+      {
+        "from": "Hyner View State Park",
+        "to": "Hampton Inn & Suites Lamar, Mill Hall PA",
+        "route": "PA-120 E down the river canyon through Lock Haven (Bucktail Scenic Byway) \u2192 PA-150/US-220",
+        "driveMin": 40,
+        "highlight": "Dusk run along the West Branch canyon wall \u2014 drive it gently, this is peak deer hour; hotel by ~9:30-9:45pm"
+      }
+    ],
+    "keyStops": [
+      "Table Rock Scenic Overlook, SC-11 at Lake Oolenoy, SC (drive-up, ~40 min in)",
+      "Big Walker Lookout, US-52 Wytheville VA (~5h in, flex stop)",
+      "Fish Dam Wild Area Vista, PA-144, Sproul State Forest PA (~10.5h in)",
+      "Hyner View State Park overlook, Hyner PA (sunset finale)",
+      "PA-120 Bucktail Scenic Byway canyon, Renovo\u2192Lock Haven (dusk)"
+    ],
+    "secludedSpots": [
+      "Fish Dam Wild Area Vista, PA-144 (Google-Maps: 'Fish Dam Run Scenic View') \u2014 paved roadside pull-off on the plateau rim looking over the roadless Russell P. Letterman Wild Area; nothing but forest to the horizon, no railing, no people. Pure smoke-spot: nose the car at the gorge and shut it off. Smooth paved apron.",
+      "Two Rock Run Vista, PA-144 a few miles further north \u2014 second rim pull-off, same emptiness, dozens of unofficial pulloffs between them (all paved or hard shoulder).",
+      "Hyner View terrace itself on a Monday evening \u2014 AllTrails/TripAdvisor reviewers report having it entirely to themselves midweek; you park 50 ft from the stone wall.",
+      "Kettle Creek State Park / Alvin R. Bush Dam, Kettle Creek Rd (SR 4001) from Westport, 5 mi west of Renovo \u2014 7 paved miles up a dead-end valley to a dam-top view over an empty green reservoir; reviewers call it 'no traffic, no planes, everyone there for peace and quiet.' Perfect Tuesday-morning bonus if skipped Monday night (do NOT follow GPS past the park \u2014 roads turn to dirt beyond).",
+      "Big Walker Mountain summit pull-offs on US-52 south of the Lookout \u2014 quiet paved crest turnouts if the store itself has people."
+    ],
+    "hotelOutlook": "Honest weakness (matches the brief's hotelFit 5): no 2019+ new-build within an hour of Hyner. Best real options, all night-of bookable with free surface lots: (1) Hampton Inn & Suites Lamar (Mill Hall, I-80 exit 173) \u2014 only 30-35 min from the park, guest-rated 9.0/10, typically ~$130-170 midweek; older build but well kept, and its position makes the sunset math work. (2) Fairfield Inn & Suites Williamsport (Marriott points, 55 min) \u2014 opened 2005 but fully renovated 2021, ~$120-160, free lot. (3) Holiday Inn Express & Suites Williamsport \u2014 2011 build, rates from ~$105-150. Sunday-into-Monday July 6 in Lock Haven/Williamsport is a soft night \u2014 walk-in availability is near certain at these prices. If a true new-build matters more than route logic, Tru by Hilton State College (~2018) is a 1h15 backtrack southwest \u2014 not recommended.",
+    "reviewEvidence": "Hyner View (TripAdvisor/AllTrails, 2025): visitors describe 50-100 people on peak weekends but note \"on weekdays you might have the entire overlook to yourself\"; the summit road is called \"long and curvy and almost only big enough for one vehicle\" but \"well paved if you come in off Route 120\" \u2014 fine for the 7 Series, just watch oncoming traffic on the blind bends. The terrace is ADA-paved, car-to-wall in 50 ft, and hang gliders launch from just below the wall. No storm-damage or closure reports for PA-120/Hyner as of July 2026 (PennDOT/byway pages show nothing active). PA-144 (motorcycleroads.com / theridrs.com riders): \"the twists and switchbacks near Renovo make this road one of the best in PA... very little traffic and the road is clean for the most part\"; route guides describe a 2,000-ft climb, pull-offs at Fish Dam and Two Rock Run vistas, and \"aggressive switchbacks\" on the Renovo descent \u2014 all paved state highway. Big Walker Lookout (TripAdvisor 2025): \"one of the few accessible places in the east where you have a 360-degree view\"; $8 tower, easy 200 steps, praised ice cream \u2014 mild tourist presence but small-scale, and a Monday will be quiet. Kettle Creek (TripAdvisor): \"in the heart of the Pennsylvania wilds with no traffic, no planes, everyone there for peace, quiet and wildlife.\"",
+    "concerns": [
+      "Time budget is the real risk: ~12.5 h of driving (over the 10 h core, inside the 14 h ceiling only if stops stay at 10-15 min and lunch is grab-and-go). Depart 9:00 sharp. Decision gate at Altoona ~6:15pm: if later than 6:45pm, skip PA-144 and stay on I-80 to exit 178 \u2192 PA-120 west to Hyner (saves ~25 min, still gets the river canyon).",
+      "Sunset margin at Hyner is thin (arrive ~8:15-8:40 vs 8:45 sunset). The view is still enormous in blue-hour light, but a single I-77/I-81 backup kills golden hour. The Big Walker stop is the designated sacrifice.",
+      "The middle 5.5 hours (I-81 + I-70) are interstate slog with heavy truck traffic \u2014 the day is scenic bookends, not continuous scenery.",
+      "Afternoon thunderstorms are common in July over the VA/PA ridges; a cell over the plateau at 8pm means fog, not views, at Hyner. Check radar at the Altoona gate.",
+      "PA-144 Snow Shoe\u2192Renovo has zero services and patchy-to-no cell coverage for ~34 miles; fuel up at Snow Shoe (Sheetz at the exit). Deer are a genuine hazard on PA-144/PA-120 at dusk.",
+      "Hotel market is the corridor's weak point: nothing built 2019+ within an hour; you trade hotel newness for waking up 30 min from Kettle Creek and the PA Wilds.",
+      "Hyner summit road is effectively 1.5 lanes on the upper switchbacks \u2014 paved and sedan-friendly, but oncoming pickups require shoulder courtesy."
+    ],
+    "pitch": "Start with Blue Ridge sweepers on an empty SC-11 before the Carolina heat builds, climb the Fancy Gap wall, grab a five-state 360 at Big Walker, then burn the boring middle on I-81/I-99 so you land at the day's real prize with light to spare: 34 traffic-free miles of PA-144 across the loneliest plateau in the East \u2014 two rim pull-offs where you park facing a roadless gorge with nobody in any direction \u2014 a switchback plunge into Renovo, and a steep paved summit climb to a CCC stone terrace 1,300 feet over the Susquehanna at sunset, almost certainly alone. It is the Lake Hartwell dock feeling, scaled up to a mountain."
+  },
+  {
+    "corridor": "Seneca SC \u2192 SC-130/SC-11 (Cherokee Foothills Scenic Hwy) \u2192 US-276 up the Caesars Head escarpment \u2192 Brevard \u2192 US-276 through Pisgah National Forest (Looking Glass Falls) \u2192 over Wagon Road Gap and down the Cruso valley to Canton \u2192 I-40E/I-26W/I-81N midday grind (Asheville\u2013Johnson City\u2013Harrisonburg) \u2192 US-33 West over Shenandoah Mountain (Rawley Springs\u2013Brandywine\u2013Franklin, the day's best driving road) \u2192 Germany Valley Overlook \u2192 Briery Gap Rd/FR-112/FR-104 paved spiral to Spruce Knob summit for sunset \u2192 down to US-33 past Seneca Rocks \u2192 Elkins WV",
+    "terminus": "Elkins, WV (Holiday Inn Express & Suites Elkins, 50 Martin St \u2014 NOTE: the destination pitch's 'Elkins Home2' does not exist; nearest Home2 is Lewisburg WV, 2.5h away)",
+    "totalDriveHours": 11.2,
+    "sceneryScore": 9,
+    "roadFunScore": 9,
+    "seclusionScore": 9,
+    "crowdRisk": "Low overall (2/10). Only real exposure is Looking Glass Falls ~11:30am \u2014 reviewers say it was 'packed during 4th of July week,' but a Monday-after-the-holiday late morning is its quietest realistic window ('went on a Monday and found parking close to the falls'); if the roadside spots are full, just roll past \u2014 it's visible from the car. Caesars Head (Oct 2025 review: 'not crowded'), Germany Valley pull-off, and Spruce Knob at 8pm on a Monday are reliably near-empty. TripAdvisor on Spruce Knob: 'isolated and not crowded.'",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (depart ~9:15am)",
+        "to": "Caesars Head State Park overlook, Cleveland SC",
+        "route": "SC-130 N \u2192 SC-11 E (Cherokee Foothills Scenic Hwy) \u2192 US-276 N climb",
+        "driveMin": 65,
+        "highlight": "US-276 climbs 2,000 ft in switchbacks and sweepers to a 3,215-ft granite brow; the overlook is a 3-minute level boardwalk from the lot \u2014 Table Rock and the whole escarpment below"
+      },
+      {
+        "from": "Caesars Head",
+        "to": "Looking Glass Falls, Pisgah National Forest NC",
+        "route": "US-276 N through Cedar Mountain \u2192 Brevard \u2192 US-276 into Pisgah NF",
+        "driveMin": 55,
+        "highlight": "60-ft roadside waterfall you can see from the driver's seat; park in the US-276 pull-offs and walk 50 yards. Zero-effort wow, moderate flow in July"
+      },
+      {
+        "from": "Looking Glass Falls",
+        "to": "Canton NC (I-40 on-ramp)",
+        "route": "US-276 N over Wagon Road Gap (crosses Blue Ridge Parkway at 4,500 ft) \u2192 down the Cruso valley along the East Fork Pigeon River",
+        "driveMin": 45,
+        "highlight": "Continuous curves up to the Parkway crossing (optional 5-min jog to Pounding Mill Overlook), then a fast, empty river-valley descent"
+      },
+      {
+        "from": "Canton NC",
+        "to": "Harrisonburg VA (fuel + food, ~6pm)",
+        "route": "I-40 E \u2192 I-26 W through the Blue Ridge to Johnson City \u2192 I-81 N",
+        "driveMin": 290,
+        "highlight": "The banked mountain sweepers of I-26 over Sams Gap are the prettiest interstate miles in the East; this 335-mi block banks the time that pays for the WV finale"
+      },
+      {
+        "from": "Harrisonburg VA",
+        "to": "Germany Valley Overlook, US-33 (Pendleton Co. WV)",
+        "route": "US-33 W over Shenandoah Mountain \u2192 Brandywine \u2192 Franklin \u2192 North Fork Mountain crest",
+        "driveMin": 75,
+        "highlight": "The day's best driving road \u2014 wide, freshly graded pavement, stacked sweepers and hairpins; riders call the Franklin\u2013Rawley Springs stretch 'to die for... on top of the world views'"
+      },
+      {
+        "from": "Germany Valley Overlook",
+        "to": "Spruce Knob summit (4,863 ft), arrive ~8:10pm",
+        "route": "US-33/WV-28 N past Judy Gap \u2192 left on Briery Gap Rd (CR-33/4) \u2192 FR-112 \u2192 FR-104 to summit lot",
+        "driveMin": 40,
+        "highlight": "Fully paved 12-mi spiral out of the valley to WV's highest point; Whispering Spruce Trail overlooks are 2 minutes from the car. Sunset 8:47pm, ~60F, likely completely alone"
+      },
+      {
+        "from": "Spruce Knob summit (depart ~8:55pm)",
+        "to": "Holiday Inn Express & Suites Elkins WV (~10:35pm)",
+        "route": "FR-104/FR-112 back down (slow, deer) \u2192 US-33/WV-28 N past Seneca Rocks \u2192 US-33 W over Allegheny Mountain",
+        "driveMin": 105,
+        "highlight": "Seneca Rocks' 900-ft fin silhouetted in twilight from the roadside pull-off; then an easy dark cruise over the Allegheny Front into Elkins"
+      }
+    ],
+    "keyStops": [
+      "Caesars Head State Park overlook (Cleveland SC) \u2014 drive-up, 3-min boardwalk, $3, ~10:20am",
+      "Looking Glass Falls (US-276, Pisgah Forest NC) \u2014 roadside waterfall, ~11:35am",
+      "Germany Valley Overlook (US-33 west of Franklin WV) \u2014 roadside pull-off, ~7:25pm",
+      "Spruce Knob summit + Whispering Spruce Trail overlooks (Riverton WV) \u2014 sunset ~8:10-8:55pm",
+      "Seneca Rocks discovery-center pull-off (Mouth of Seneca WV) \u2014 2-min twilight photo, ~9:40pm"
+    ],
+    "secludedSpots": [
+      "Spruce Knob summit lot at sunset \u2014 THE smoke spot of the trip: paved to the last foot (FR-104), park facing west over the Alleghenies at 4,863 ft, TripAdvisor reviewers call it 'isolated and not crowded' with perfect dark skies; on a Monday evening expect 0-2 other cars. Road note: paved but narrow with blind curves and one hairpin; scattered potholes reported \u2014 fine at 20-25 mph in the 7 Series",
+      "Germany Valley Overlook (US-33, 4 mi east of Judy Gap) \u2014 unsigned-feeling roadside turnout at ~3,600 ft looking across karst farm valley to Spruce Knob and the Allegheny Front; pure pavement, usually just you and the guardrail",
+      "Spruce Knob Lake (2.5 mi past the summit turn on FR-112) \u2014 glassy 25-acre mountain lake at 3,840 ft; last stretch is smooth-graded gravel \u2014 OK slow and dry, skip if wet or if dusk is close",
+      "Pounding Mill Overlook (Blue Ridge Parkway MP 413, 2 mi south of the US-276 crossing) \u2014 huge SW-facing drive-up panorama of the Pisgah ridges, rarely more than a car or two midweek",
+      "Fred W. Symmes 'Pretty Place' Chapel (Solomon Jones Rd off US-276 near Caesars Head) \u2014 open-air chapel hanging over the escarpment, park-and-look; caveat: YMCA camp is in session in July and gates close to visitors on event/camp days \u2014 try, don't count on it",
+      "Alternate if ahead of schedule at Harrisonburg: Reddish Knob (VA-257 \u2192 VA-924 Briery Branch Rd) \u2014 paved single-lane to a 4,397-ft 360-degree bald summit, famously empty; pavement is cracked/patched at the top and adds ~1.5h round trip, so it competes with, rather than complements, Spruce Knob"
+    ],
+    "hotelOutlook": "Honest weak link (the 4/10 hotelFit is accurate) \u2014 and the destination pitch's 'Elkins Home2' is wrong: Hilton's own locations page shows no Home2 in Elkins (nearest is Home2 Suites Lewisburg, 2.5h south). Real night-of options, all with free surface lots and easy Monday-night availability: (1) Holiday Inn Express & Suites Elkins, 50 Martin St \u2014 best pick: 4.4/5 across ~600 reviews ('rooms were very clean and comfortable'), ~$98-150/night, free parking, walkable to the rail depot; built 2000s, renovated, not a 2019+ new-build. (2) Hampton Inn Elkins \u2014 ~$141+, riverbank setting with Tygart Valley views, free lot, hot breakfast; older build, solid reviews. (3) The Tygart Hotel \u2014 historic downtown property fully gut-renovated and reopened 2024 (the newest product in town), ~$130-180, but boutique-style parking rather than a big suburban lot. No Marriott brand exists in Elkins. Practical tip: book from the Harrisonburg fuel stop at ~6pm \u2014 Spruce Knob is a cell dead zone and a 10pm night-of booking from the mountain is not possible.",
+    "reviewEvidence": "Spruce Knob (TripAdvisor, recent): 'isolated and not crowded'; sunset visitors found it 'really pretty from the high elevation' with 'perfect dark sky conditions for stargazing.' Access-road intel (highpoint.guide / TheDyrt, 2025-26): the preferred approach from Route 33/28 'stays paved but remains steep'; Briery Gap Rd is 'very narrow, steep & windy... barely wide enough for 2 vehicles with a lot of blind curves & sharp turns including at least 1 hairpin' \u2014 and reviewers warn the OTHER approach from Harman turns to rough gravel, so approach from the east only. At the top, the Whispering Spruce loop's two rock overlooks beat the tower ('the lookout tower is higher, [but] views are mostly obstructed by trees'). US-33 (motorcycleroads.com riders): 'the damned turns just don't stop \u2014 big, small, slow, quick'; 'the Franklin to Rawley Springs section is to die for... on top of the world views'; the Shenandoah Mountain grade 'has been widened, with some sharp curves improved' \u2014 ideal 7-Series pavement. Looking Glass Falls (TripAdvisor/AllTrails 2025): 'packed during 4th of July week,' but 'went on a Monday and found parking available close to the Falls' \u2014 Monday July 6 is the thin edge of the crowd curve. Caesars Head (AllTrails/TripAdvisor, Oct 2025): overlook is 'less than a three-minute walk... along a level boardwalk' and 'not crowded.' Storm-damage check: my original SC morning candidate, Bald Rock Heritage Preserve, was reconfigured in spring 2025 \u2014 roadside parking closed, now a half-mile walk plus pervasive graffiti \u2014 so it was cut for Caesars Head; Whitewater Falls' post-Helene overlook status could not be confirmed as reopened, so it is excluded rather than risked. Elkins HIE (Birdeye/IHG): 4.4/5, 606 reviews, complimentary parking.",
+    "concerns": [
+      "Hotel is the trip's compromise: no 2019+ new-build and no Marriott brand in Elkins; the pitched Home2 Suites Elkins does not exist \u2014 you're choosing between a well-reviewed but older Holiday Inn Express (~$98-150) and Hampton Inn (~$141+)",
+      "11.2h of driving overshoots the 10h core target (13-13.5h total day, arrival ~10:35pm); the recovery lever is skipping the Caesars Head leg and running I-85/I-26 from Seneca, cutting ~1.3h",
+      "~5h of the middle is unavoidable interstate (I-40/I-26/I-81) \u2014 scenic as interstates go, but a long block",
+      "July afternoon thunderstorms build over the Alleghenies; check radar at the 6pm Harrisonburg stop \u2014 storms typically clear by sunset, but a socked-in summit has zero view and no cell service to re-plan from",
+      "FR-104/Briery Gap descent after sunset: narrow, blind curves, one hairpin, reported potholes, and heavy deer activity \u2014 budget 35 slow minutes down in the dark",
+      "Looking Glass Falls is the one crowd gamble; day-after-July-4 Monday is favorable but not guaranteed \u2014 drive-by fallback costs nothing",
+      "Whitewater Falls (the biggest waterfall option near the start) is excluded because its post-Helene reopening could not be verified as of July 2026",
+      "Cell dead zone from Judy Gap through Spruce Knob \u2014 download offline maps and book the Elkins room from Harrisonburg"
+    ],
+    "pitch": "Bookend the day with two private mountaintops and pay for them with one honest interstate block: climb Caesars Head's boardwalk overlook before the Monday world wakes up, grab a windshield waterfall in Pisgah, then bank 335 miles so you hit US-33's stacked Shenandoah Mountain sweepers \u2014 a road bikers call 'to die for' \u2014 in golden evening light, and spiral up a fully paved forest road to have West Virginia's 4,863-ft roof entirely to yourself at sunset, 60 degrees, tower and rock overlooks two minutes from the parked BMW, before an easy dark glide past Seneca Rocks into Elkins."
+  },
+  {
+    "corridor": "Waterfall-to-Dragon corridor: Seneca SC \u2192 SC-130/NC-281 (Upper Whitewater Falls) \u2192 US-64 \u2192 Brevard \u2192 US-276 through Pisgah (Looking Glass Falls) \u2192 Blue Ridge Parkway MP 412\u2192393 (Pounding Mill / Looking Glass Rock overlooks) \u2192 I-26 over Sam's Gap \u2192 I-81 \u2192 Marion VA \u2192 VA-16 'Back of the Dragon' 32 mi/400+ curves \u2192 Tazewell \u2192 VA-61/VA-623 paved switchbacks into Burkes Garden crater valley \u2192 backtrack VA-623 \u2192 VA-61 Clear Fork valley \u2192 Rocky Gap \u2192 I-77 (or US-52 Big Walker sunset option) \u2192 Wytheville VA",
+    "terminus": "Wytheville, VA (I-77/I-81 junction, 40 min from Burkes Garden exit)",
+    "totalDriveHours": 9.8,
+    "sceneryScore": 8.5,
+    "roadFunScore": 9.5,
+    "seclusionScore": 9,
+    "crowdRisk": "Low. Monday July 6 after the holiday weekend is the single best day of the summer for this route: Back of the Dragon reviewers report near-empty pavement even on fall weekends, Burkes Garden is genuinely deserted, and BRP overlooks are quiet on weekday afternoons. Only pinch point is Looking Glass Falls around midday (roadside drive-by, skippable in 30 seconds if the lot looks full) and motorcycles on VA-16.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (dep ~9:15am)",
+        "to": "Upper Whitewater Falls overlook, NC",
+        "route": "SC-183 \u2192 SC-11 N \u2192 SC-130 N (becomes NC-281)",
+        "driveMin": 50,
+        "highlight": "Tallest waterfall east of the Rockies (811 ft) via a 0.2-mi paved path; $3/vehicle. May 2026 reviews: 'not crowded, trail dry, downed trees cleared.' At 10am Monday you may have the platform alone."
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Brevard NC",
+        "route": "NC-281 N (empty twisties) \u2192 US-64 E past Lake Toxaway",
+        "driveMin": 50,
+        "highlight": "Optional 5-min spur: Wigington Overlook (paved, usually zero people) for a Lake Jocassee panorama \u2014 the day's first private 'smoke spot.'"
+      },
+      {
+        "from": "Brevard",
+        "to": "Blue Ridge Parkway at Wagon Road Gap (MP 411.9)",
+        "route": "US-276 N through Pisgah National Forest",
+        "driveMin": 40,
+        "highlight": "Looking Glass Falls \u2014 a 60-ft waterfall literally at the road shoulder, 10-min stop. The one crowd-exposed stop; bail without penalty if busy."
+      },
+      {
+        "from": "BRP Wagon Road Gap",
+        "to": "Asheville / I-26 (via NC-191, MP 393.6)",
+        "route": "Blue Ridge Parkway northbound, confirmed OPEN MP 388\u2013423 per NPS July 2026",
+        "driveMin": 70,
+        "highlight": "Pounding Mill Overlook (MP 413.2) and Looking Glass Rock Overlook (MP 417) \u2014 huge drive-up views, typically empty on a Monday. Minor single-lane bridge work near the I-26 crossing."
+      },
+      {
+        "from": "Asheville NC",
+        "to": "Marion VA (I-81 exit 44/45)",
+        "route": "I-26 W/N over Sam's Gap \u2192 I-81 N through Johnson City/Bristol",
+        "driveMin": 135,
+        "highlight": "The transit leg \u2014 but I-26 over Sam's Gap is one of America's most scenic interstates. Refuel car and stomach in Marion; there is nothing on the Dragon or in Burkes Garden Monday evening."
+      },
+      {
+        "from": "Marion VA",
+        "to": "Tazewell VA",
+        "route": "VA-16 'Back of the Dragon' \u2014 32 paved miles, 400+ curves over three mountains",
+        "driveMin": 60,
+        "highlight": "The main event, ~4pm with the road to yourself: fully repaved surface, 55-mph sweepers mixed with signed 15\u201325-mph blind hairpins, three summit crests. Reviewers: 'not as crowded or pursued as the Tail.'"
+      },
+      {
+        "from": "Tazewell",
+        "to": "Burkes Garden (God's Thumbprint)",
+        "route": "US-19/460 E \u2192 VA-61 E to Gratton \u2192 VA-623 S (paved switchbacks over Garden Mountain)",
+        "driveMin": 40,
+        "highlight": "The only paved way into Virginia's highest, emptiest crater valley \u2014 freshly paved hairpins up the rim, then the floor opens into a 10-mile-wide bowl of Amish farms at 3,100 ft."
+      },
+      {
+        "from": "Burkes Garden valley loop",
+        "to": "back over VA-623 to VA-61 at Gratton",
+        "route": "Paved valley loop past Burke's Garden General Store, Central Lutheran Church, Gose Mill Pond, then re-cross the rim",
+        "driveMin": 60,
+        "highlight": "Golden-hour laps of the crater floor with cattle, silos and zero cars. Do NOT take the southern 623 gravel exit ('bring a chainsaw' per locals) \u2014 the paved backtrack is a free second run of the switchbacks."
+      },
+      {
+        "from": "Gratton (VA-61/623 junction)",
+        "to": "Rocky Gap VA",
+        "route": "VA-61 E through the Clear Fork valley",
+        "driveMin": 45,
+        "highlight": "Sleeper leg: 30 miles of smooth, empty valley two-lane between Rich Mountain and East River Mountain \u2014 pure dusk cruising, farms and creek the whole way."
+      },
+      {
+        "from": "Rocky Gap",
+        "to": "Wytheville VA (arr ~9:15pm)",
+        "route": "I-77 S through Big Walker tunnel \u2014 or sunset option: exit 52, US-52 over Big Walker Mountain (+20 min)",
+        "driveMin": 40,
+        "highlight": "US-52 option crests at Big Walker Lookout (el. 3,405 ft) \u2014 store closed by evening, pull-offs face west toward the ~8:45pm sunset. Last private overlook of the day."
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls overlook, Sapphire NC (drive-up, $3, 0.2-mi paved path)",
+      "Looking Glass Falls, US-276, Pisgah Forest NC (roadside, optional if crowded)",
+      "Pounding Mill Overlook, Blue Ridge Parkway MP 413.2",
+      "Back of the Dragon, VA-16 Marion\u2192Tazewell (photo stop at the Dragon sign/trailhead in Tazewell)",
+      "Burke's Garden General Store & valley loop, Burkes Garden VA",
+      "Big Walker Lookout, US-52 Wytheville VA (sunset option)"
+    ],
+    "secludedSpots": [
+      "Wigington Overlook, Wigington Rd (SC-413) off SC-130/NC-281 \u2014 paved pull-off staring down at Lake Jocassee, almost always empty",
+      "Bad Creek Hydro access road off SC-130 (Duke Energy, gates open daytime) \u2014 paved spur to a deserted Lake Jocassee/Lower Whitewater overlook area, the Lake-Hartwell-dock vibe",
+      "Pounding Mill Overlook, BRP MP 413.2 \u2014 vast south-facing wall of ridges, big paved lot, weekday-empty; park nose-out to the view",
+      "VA-623 rim crest pull-off on Garden Mountain \u2014 paved switchback shoulder looking back over the entire Burkes Garden crater; realistically nobody passes for 20+ minutes",
+      "Gose Mill Pond / Central Church lanes inside Burkes Garden \u2014 all paved farm lanes, dead-quiet; the gravel south exit and the 6-mi rutted AT-trailhead spur are the only surfaces to refuse in the 7 Series",
+      "Big Walker Lookout pull-offs on US-52 \u2014 west-facing paved shoulders at 3,400 ft for the 8:45pm sunset, tower closed by evening so the mountain is yours"
+    ],
+    "hotelOutlook": "Excellent and cheap for a Monday night-of booking. Tru by Hilton Wytheville (opened ~2020, exactly the modern new-build brief) ~$116; Fairfield Inn & Suites Wytheville ~$132; Hampton Inn Wytheville ~$133 \u2014 all with free surface lots off the I-77/I-81 exits, all well under the $150-200 band, and a post-July-4th Monday is the softest night of the summer. TripAdvisor shows Wytheville rates from ~$59, so walk-in risk is near zero. Trade-off: these are interstate-exit properties, functional not charming.",
+    "reviewEvidence": "Back of the Dragon (TripAdvisor, incl. a 2026 review): a rider who feared a fall weekend would be crowded reported 'It was not'; consensus is it's 'not as crowded or pursued as the Tail.' Rider Magazine's March 2025 ride report confirms fully paved surface with 55-mph sweepers that abruptly tighten to signed 15\u201325-mph blind corners \u2014 ideal M Sport territory but demanding. Burkes Garden (TripAdvisor): 'may be Virginia's best kept secret'; recent visitors note NEW PAVEMENT on the VA-623 entrance but warn the southern gravel exit is rough enough that locals joke to 'bring a chainsaw' \u2014 plan the paved backtrack. Amish general store sells baked goods/jams and is closed Sundays but normally open Mondays (daytime only \u2014 arrive before ~5pm or treat it as scenery). Whitewater Falls (AllTrails/Yelp, spring 2026 reviews): 'not crowded... trail dry and in good shape, downed trees cleared'; rangers advise morning visits to beat midday holiday volume \u2014 the 10am Monday slot lands perfectly. NPS road-closure page (checked July 2026): BRP open MP 388.8\u2013423.2 including US-276 and NC-215 access, with only short single-lane daytime traffic control at the I-26 bridge project.",
+    "concerns": [
+      "~2h15 of unavoidable interstate (I-26/I-81) in the early afternoon \u2014 the corridor's dead zone, partly redeemed by Sam's Gap scenery",
+      "July afternoon thunderstorms: hitting the Dragon ~4pm is prime pop-up storm window; wet VA-16 with blind 15-mph corners and motorcycle traffic demands restraint \u2014 radar-check in Marion and flip the day's slack hour if cells are building",
+      "Looking Glass Falls is the one genuine crowd gamble (midday, famous, post-holiday Monday helps but doesn't guarantee); it's a drive-by decision, no sunk cost",
+      "Burkes Garden is a true dead end for a sedan \u2014 the gravel south exit over Garden Mountain is NOT 7 Series-appropriate, so budget the 25-min paved backtrack (counted in the legs above)",
+      "Food/fuel desert after Marion (~3:45pm): Burkes Garden has no Monday-evening dining and Tazewell options are thin \u2014 eat a real meal or grab provisions in Asheville/Marion",
+      "Scenery is pastoral ridge-and-valley Appalachia, an 8.5 not a 10 \u2014 no gorge/coastal drama; the payoff is emptiness plus driving quality",
+      "Day runs ~12 hours door-to-door (9:15am\u20139:15pm); skipping the Big Walker sunset detour or Looking Glass buys back ~40 min",
+      "Motorcycles treat VA-16 as a pilgrimage road even midweek \u2014 expect the occasional sportbike mid-corner"
+    ],
+    "pitch": "This is the seclusion-maximalist's day: waterfalls before the Monday crowds wake up, a quiet Blue Ridge Parkway ridge run, then Virginia's best driving road \u2014 32 freshly paved miles and 400+ curves that reviewers confirm sit empty even on weekends \u2014 dead-ending into a 3,100-ft crater farm valley where the only traffic is Amish buggies, finished with a private 8:45pm sunset on Big Walker Mountain and a $116-133 new-build hotel with a surface lot waiting in Wytheville. Roughly 9.8 hours of driving, and after 1pm you will barely see another car."
+  },
+  {
+    "corridor": "\"Waterfalls-to-Empty-Kentucky\" corridor: Seneca SC \u2192 SC 28 (Moonshiner 28) over the Blue Ridge to Highlands NC \u2192 US 64 Cullasaja Gorge waterfall mile \u2192 Nantahala Gorge \u2192 Cherohala Skyway (NC 143/TN 165, the Southeast's best big-sedan road) \u2192 Bald River Falls spur \u2192 I-75 north to Jellico \u2192 KY 92/KY 90 backroads past Cumberland Falls \u2192 Monticello \u2192 Albany \u2192 US 127 across Wolf Creek Dam \u2192 KY 379 down to Creelsboro Natural Arch on the Cumberland River, ending at Somerset KY for the night",
+    "terminus": "Creelsboro Natural Arch / Rockhouse Bottom (Jamestown, KY) for the sunset stop; overnight 40 min east in Somerset, KY (Home2 Suites / Fairfield Inn)",
+    "totalDriveHours": 10.8,
+    "sceneryScore": 8,
+    "roadFunScore": 8,
+    "seclusionScore": 9,
+    "crowdRisk": "Low-moderate. Only two pinch points: US 74 through Nantahala Gorge around midday (rafting-outfitter traffic, ~20 slow minutes) and Cumberland Falls, which reviewers call \"very much a tourist attraction\" at midday \u2014 but you hit it ~6:00-6:30pm on the Monday after July 4th with the park campground closed for the 2026 season, so the lot will be emptying out. Cherohala Skyway is famously the empty alternative to the Tail of the Dragon, and everything west of Monticello KY is genuinely deserted.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites Seneca SC (dep ~9:00am EDT)",
+        "to": "Highlands, NC",
+        "route": "SC 28 N through Walhalla and Mountain Rest ('Moonshiner 28') \u2014 tight paved switchbacks up the escarpment, then NC 106 into Highlands",
+        "driveMin": 75,
+        "highlight": "Classic Southern driving road right out of the hotel door; nearly zero traffic on a Monday morning"
+      },
+      {
+        "from": "Highlands, NC",
+        "to": "Franklin, NC",
+        "route": "US 64 W down the Cullasaja Gorge",
+        "driveMin": 40,
+        "highlight": "Waterfall mile: Bridal Veil Falls hangs over the old roadbed at the shoulder (2-min stop), Dry Falls has a paved lot 200 yards from a walk-BEHIND-the-falls view (10-min stop); Cullasaja Falls roadside pullout further down"
+      },
+      {
+        "from": "Franklin, NC (fuel + sandwich)",
+        "to": "Robbinsville, NC",
+        "route": "US 74 W through Nantahala Gorge, then NC 143 W via Stecoah Gap",
+        "driveMin": 65,
+        "highlight": "River-bottom gorge running; only crowd-exposed stretch of the day \u2014 rafting buses midday"
+      },
+      {
+        "from": "Robbinsville, NC",
+        "to": "Tellico Plains, TN",
+        "route": "Cherohala Skyway (NC 143 \u2192 TN 165) \u2014 43 miles, zero driveways, zero towns",
+        "driveMin": 85,
+        "highlight": "THE leg for a 7 Series: wide, freshly-surfaced sweepers climbing to 5,390 ft at Santeetlah Overlook \u2014 paved pullout, huge view, routinely empty on weekdays; 15-20F cooler than the valleys"
+      },
+      {
+        "from": "Tellico Plains, TN",
+        "to": "Bald River Falls and back",
+        "route": "TN 165 \u2192 River Rd/Forest Rd 210 along the Tellico River (6 mi each way, paved)",
+        "driveMin": 30,
+        "highlight": "90-ft waterfall visible from the bridge without leaving the car \u2014 a new pedestrian overlook bridge was recently completed; the definitive drive-up waterfall"
+      },
+      {
+        "from": "Tellico Plains, TN",
+        "to": "Jellico, TN (KY line)",
+        "route": "TN 68 N \u2192 TN 39 \u2192 Sweetwater \u2192 I-75 N",
+        "driveMin": 100,
+        "highlight": "The transit leg \u2014 dull but necessary interstate hop past Knoxville's western flank to the Cumberland Plateau"
+      },
+      {
+        "from": "Jellico, TN",
+        "to": "Cumberland Falls State Resort Park, KY",
+        "route": "KY 92 W (twisty, empty plateau two-lane) \u2192 US 27 N \u2192 KY 90 W",
+        "driveMin": 75,
+        "highlight": "KY 92 is a sleeper: wooded ridge-running with nobody on it; arrives at the 'Niagara of the South' ~6pm when day-trippers are gone \u2014 short paved walk from the closest lot to the brink overlook"
+      },
+      {
+        "from": "Cumberland Falls",
+        "to": "Albany, KY",
+        "route": "KY 90 W through Monticello (gain an hour crossing into Central Time at Albany)",
+        "driveMin": 85,
+        "highlight": "Rolling Cumberland Plateau farm country, long empty straights and sweepers into the evening light"
+      },
+      {
+        "from": "Albany, KY",
+        "to": "Wolf Creek Dam Overlook, Jamestown KY",
+        "route": "US 127 N across the mile-long top of Wolf Creek Dam",
+        "driveMin": 30,
+        "highlight": "Paved overlook lot facing the full sweep of Lake Cumberland \u2014 park nose-out at golden hour, likely alone; textbook 'smoke spot'"
+      },
+      {
+        "from": "Wolf Creek Dam",
+        "to": "Creelsboro Natural Arch (Rockhouse Bottom)",
+        "route": "KY 1730 \u2192 KY 379 S to the Creelsboro Country Store, signed pull-off across the road",
+        "driveMin": 25,
+        "highlight": "The headline: 100+ ft National Natural Landmark arch opening onto the Cumberland River, reached down a tiny valley lane \u2014 arrive ~7:15-7:30pm CDT, an hour before local sunset (~8:05pm CDT)"
+      },
+      {
+        "from": "Creelsboro",
+        "to": "Somerset, KY (hotel)",
+        "route": "KY 379 N to Russell Springs \u2192 KY 80 E (fast modern 4-lane)",
+        "driveMin": 50,
+        "highlight": "Easy dark-hours 4-lane to the only real new-build hotel market in the region; check-in ~10:15-10:30pm EDT"
+      }
+    ],
+    "keyStops": [
+      "Bridal Veil Falls, Highlands NC (roadside, 2 min \u2014 drive-under lane now pedestrian-only, still hangs right over the shoulder)",
+      "Dry Falls, Nantahala National Forest (paved lot, walk behind a 75-ft waterfall in 10 min)",
+      "Santeetlah Overlook, Cherohala Skyway (5,390 ft, paved pullout, usually empty midweek)",
+      "Bald River Falls, Tellico Plains TN (90-ft falls visible from the car on the bridge)",
+      "Cumberland Falls State Resort Park, Corbin KY (125-ft-wide 'Niagara of the South', short level paved walk from nearest lot)",
+      "Wolf Creek Dam Overlook / Kendall Recreation Area, Jamestown KY (Lake Cumberland panorama, paved)",
+      "Creelsboro Natural Arch / Rockhouse Bottom, Creelsboro KY (the terminus prize)"
+    ],
+    "secludedSpots": [
+      "Rockhouse Bottom itself: KY 379 is paved to the Creelsboro Country Store; the final descent to the parking flat (marked by an old church memorial stone) is short but POTHOLED gravel \u2014 multiple reviewers park at the top of the gravel and walk the last few hundred yards, which is exactly what the 7 Series should do. Then a 0.2-mi walk with a small metal ladder down into the creek bed and through the arch to the river. Typical company: a couple of local fishermen at most.",
+      "Wolf Creek Dam Overlook (US 127, Jamestown KY): paved lot on the bluff facing the entire lower lake \u2014 a park-facing-the-view, nobody-around sunset spot; Kendall Recreation Area's paved lane below the dam sits on the misty cold-water Cumberland tailrace.",
+      "Rowena Boat Ramp / Rowena Landing (off KY 1546, Russell County KY): dead-end paved lane to a quiet Lake Cumberland arm \u2014 the closest analog on this route to the deserted Lake Hartwell boat dock; 15 min from Creelsboro.",
+      "Santeetlah Overlook and the string of paved Cherohala pullouts (Brushy Ridge, Turkey Creek): on a post-holiday Monday afternoon you will have 5,000-ft views entirely to yourself.",
+      "Stecoah Gap pullout (NC 143): small paved gap-top lot, big valley view, no one there."
+    ],
+    "hotelOutlook": "Honest weakness turned manageable: Jamestown/Russell Springs (closest to the arch) has NO modern branded new-build \u2014 it's the Lake Cumberland State Resort lodge and older independents. The play is Somerset KY, 50 min east via fast 4-lane KY 80: (1) Home2 Suites by Hilton Somerset \u2014 the market's newest build (opened ~2023), free surface lot, typically ~$140-175; (2) Fairfield Inn & Suites Somerset (Marriott, off US 27, free surface parking, ~$130-160); (3) Hampton Inn Somerset \u2014 older but renovated, TripAdvisor #1 of 10 in town (~$130-155). A rural-KY Monday night after the July 4th weekend is about the easiest night-of booking of the year; all three sit comfortably inside the $150-200 budget with room to spare. Bonus: Somerset positions you on US 27/KY 80 for whatever direction Tuesday goes.",
+    "reviewEvidence": "Creelsboro Arch (34 AllTrails reviews, plus recent trip reports): visitors consistently report \"quiet isolation,\" a \"very potted\" gravel descent that many skip by parking at the top, a short walk with \"a small metal ladder to climb down,\" and scale that surprises people \u2014 100+ ft span, 60+ ft high, 7th-longest natural bridge in the US; one recent blogger found only \"several fishermen\" at the river and warns of bird droppings raining inside the arch (wear a hat, watch footing in the creek bed). Bald River Falls: TripAdvisor reviewers call it a \"must see stop on the Cherohala Skyway\" \u2014 \"you don't even have to get out of your vehicle to see the amazing Falls\"; a newly completed bridge/pedestrian overlook opened recently; \"parking is extremely limited \u2014 arrive early or visit weekdays\" (you're there on a Monday). Cherohala itself is described in a May 2026 Rider Magazine feature as smooth, flowing, and lightly trafficked \u2014 the anti-Dragon. Cumberland Falls: recent TripAdvisor/Yelp reviews split \u2014 \"plenty of parking... short easy and level walk\" vs. \"very much a tourist attraction... super crowded\" at peak; the park's campground is closed for all of 2026 for upgrades, and an early-evening Monday arrival dodges the worst of it. Cullasaja Gorge falls (Dry Falls, Bridal Veil, Cullasaja Falls) reopened in October 2024 after Helene and were operating normally through 2025-26; Bridal Veil's famous drive-under lane is permanently pedestrian-only now.",
+    "concerns": [
+      "Long day: ~10.8h of driving, roughly 13-13.5h door-to-door (9:00am EDT departure, ~10:15pm EDT/9:15pm CDT-equivalent check-in in Somerset). If it needs trimming, the surgical cut is the Nantahala/Cherohala loop's Bald River spur (-30 min) or capping Cumberland Falls at 15 min.",
+      "Daylight math is real: Creelsboro arch needs light. Sunset in Jamestown KY ~8:05pm CDT July 6; the itinerary lands you there ~7:15-7:30pm CDT only if morning stops stay disciplined (15 min each). Slip an hour and the arch becomes a dusk stop \u2014 still doable but loses the river golden hour. The Central Time gain at Albany is the built-in buffer.",
+      "The middle third (Tellico Plains \u2192 Jellico, ~1h40m of TN 68/I-75) is transit, not scenery \u2014 unavoidable to bridge the Smokies to the Cumberland Plateau.",
+      "Rockhouse Bottom's final gravel descent is potholed; plan to park at the top and walk 5-10 min. The arch approach involves a creek-bed scramble and a small metal ladder \u2014 more than the ideal 'minimal walking,' though only ~0.2 mi.",
+      "July heat: the Cumberland River bottom will still be ~88-92F and humid at 7pm; Cherohala's 5,000-ft crest is the midday relief valve. Standard 2-5pm mountain thunderstorm risk on the Skyway \u2014 sweepers are fine in rain on that surface, but views can vanish for 30 min.",
+      "No new-build hotel at the true terminus \u2014 accepting a 50-min post-sunset run to Somerset is the price of sleeping in a 2023 Home2 instead of a 1990s independent motel.",
+      "Waterfall flow in July is moderate: Bald River and Dry Falls will be solid but not spring-thunderous; Cumberland Falls is high-volume year-round."
+    ],
+    "pitch": "This is the seclusion-maximalist's route: start with two of the Southeast's great driving roads while they're empty on a post-holiday Monday morning (Moonshiner 28's switchbacks, then the Cherohala's 43 miles of wide 5,000-ft sweepers with no driveways and no cops \u2014 built for a 7 Series in a way the cramped Dragon never was), collect four drive-up waterfalls with a combined 40 minutes of walking, then trade the Smokies for something rarer: Kentucky plateau roads where you won't see another car for ten minutes at a stretch. The finale is the whole point \u2014 cross a mile-long dam over Lake Cumberland at golden hour with the overlook to yourself, drop down a dead-end valley lane past a country store, walk five minutes, and stand alone inside a National Natural Landmark arch big enough to drive a truck through, opening straight onto the Cumberland River, with nobody there but maybe a fisherman. It's the Lake Hartwell boat-dock feeling, scaled up 100 feet."
+  }
+]
