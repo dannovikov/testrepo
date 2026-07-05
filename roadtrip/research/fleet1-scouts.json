@@ -1,0 +1,396 @@
+[
+  {
+    "corridor": "Seneca SC \u2192 Jocassee Gorges waterfalls (SC-130/NC-281) \u2192 Highlands US-64 waterfall corridor \u2192 Blue Ridge Parkway (Beech Gap to Asheville) \u2192 Linville Falls/Grandfather via US-221 \u2192 Boone \u2192 I-77 \u2192 New River Gorge National Park, WV",
+    "terminus": "Beckley, WV (hotel base; Grandview rim of New River Gorge NP is 20 min away, Fayetteville/bridge 35 min)",
+    "totalDriveHours": 9.8,
+    "sceneryScore": 9,
+    "roadFunScore": 8,
+    "seclusionScore": 7,
+    "crowdRisk": "MEDIUM. Monday July 6 (day after the holiday) thins crowds meaningfully, but Dry Falls' small lot and Graveyard Fields are reliable crowd traps 11am-4pm even midweek \u2014 hit Dry Falls before 11:30am and treat Graveyard Fields as a drive-by, using Looking Glass Rock and Pounding Mill overlooks instead (bigger views, far emptier). Highlands' main street is a mini tourist strip; you only transit it. The WV finale is genuinely quiet: Grandview's rim overlooks near sunset on a Monday are often close to empty.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC",
+        "to": "Upper Whitewater Falls overlook (search: Whitewater Falls Parking, NC-281, Sapphire NC; 35.0296, -83.0153)",
+        "route": "SC-183 \u2192 SC-130 N (becomes NC-281)",
+        "driveMin": 55,
+        "highlight": "411-ft Whitewater Falls, tallest east of the Rockies \u2014 0.2-mi paved path from the lot to the upper overlook (skip the 154 stairs). Verified open and in good condition in 2026 despite Helene. Small day-use fee (~$3 cash). SC-130 is a smooth, empty sweeper climb past Lake Jocassee country \u2014 pure 7 Series road."
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Dry Falls (35.0680, -83.2390) via Bridal Veil Falls (35.0757, -83.2296)",
+        "route": "NC-281 N \u2192 US-64 W through Cashiers and Highlands",
+        "driveMin": 55,
+        "highlight": "Bridal Veil is a literal drive-up (falls hang over the old roadbed, 2-min stop). Dry Falls is the day's wow: paved 0.2-mi ramp lets you WALK BEHIND a 75-ft curtain of water. Arrive ~11am before the lot fills. Optional 5 min further west: Cullasaja Falls pullout (narrow shoulder \u2014 only if clear)."
+      },
+      {
+        "from": "Dry Falls",
+        "to": "Blue Ridge Parkway at Beech Gap, MP 423.2 (search: NC-215 at Blue Ridge Parkway)",
+        "route": "US-64 E back through Cashiers/Lake Toxaway to Rosman, then NC-215 N",
+        "driveMin": 85,
+        "highlight": "NC-215 north is the secret-handshake road of this trip: freshly paved, near-empty 5,300-ft climb. Stop at Living Waters / Mill Shoals Falls (6690 NC-215, Balsam Grove; 35.2280, -82.9070) \u2014 a roadside triple waterfall usually with nobody there. Exactly the deserted-boat-dock energy from Lake Hartwell."
+      },
+      {
+        "from": "BRP Beech Gap (MP 423.2)",
+        "to": "BRP exit at US-70 East Asheville (MP 382.6)",
+        "route": "Blue Ridge Parkway northbound, 41 mi \u2014 this entire section CONFIRMED OPEN (NPS: MP 382.8-469.1 and through Asheville open)",
+        "driveMin": 85,
+        "highlight": "Devil's Courthouse overlook (MP 422.4) \u2014 massive view from the parking lot itself, no hike needed. Then Looking Glass Rock Overlook (MP 417) and the sleeper pick Pounding Mill Overlook (MP 413.2, 35.332, -82.767) \u2014 huge Pisgah panorama, routinely empty. Graveyard Fields (MP 418.8): drive-by unless the lot is quiet."
+      },
+      {
+        "from": "Asheville (I-40 exit)",
+        "to": "Linville Falls Visitor Center spur, BRP MP 316.5 (CONFIRMED OPEN; campground/picnic closed)",
+        "route": "I-40 E to Marion, US-221 N \u2014 bypasses the two Helene-closed BRP sections (MP 355.3-333.9 and 324.7-317.5, repairs due late 2026)",
+        "driveMin": 75,
+        "highlight": "Linville Falls, the Parkway's signature waterfall. Honest caveat: the first real view (Upper Falls) is a 0.5-mi each-way flat walk \u2014 the longest walk of the day. If energy is low, skip the walk, cross the Linville River footbridge for 5 minutes, and bank the time."
+      },
+      {
+        "from": "Linville Falls",
+        "to": "Blowing Rock / Boone NC",
+        "route": "US-221 N \u2014 the old Yonahlossee Trail hugging Grandfather Mountain, passing directly beneath the Linn Cove Viaduct",
+        "driveMin": 55,
+        "highlight": "Continuous shaded S-curves under Grandfather Mountain, beautifully paved. Note: the BRP's own Linn Cove Viaduct section (MP 299.9-302.8) is closed for 2026 construction with detour \u2014 US-221 IS the detour, and it is the better driving road anyway. Skip the Grandfather Mountain paid attraction (touristy, $)."
+      },
+      {
+        "from": "Boone NC",
+        "to": "Fairfield Inn & Suites Beckley WV (I-77 exit 44, Harper Rd)",
+        "route": "US-421 E to I-77 N through Wytheville \u2014 Big Walker Mountain and East River Mountain tunnels \u2014 Princeton, Beckley",
+        "driveMin": 175,
+        "highlight": "The endurance leg: ~2h55 of mostly interstate, but I-77 through the twin mountain tunnels into WV is a scenic freeway. Arrive ~8:15-8:45pm. If ahead of schedule, detour 20 min to Grandview Main Overlook (37.832, -81.062) for a sunset (~8:50pm) 1,400-ft rim view of the New River horseshoe \u2014 drive-up, 2-min walk, usually deserted on a Monday evening."
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls overlook \u2014 NC-281, Sapphire NC (35.0296, -83.0153) \u2014 411-ft falls, 0.2-mi paved path",
+      "Dry Falls \u2014 US-64, Highlands NC (35.0680, -83.2390) \u2014 walk BEHIND the waterfall, paved ramp",
+      "Bridal Veil Falls \u2014 US-64, Highlands NC (35.0757, -83.2296) \u2014 drive-up",
+      "Living Waters / Mill Shoals Falls \u2014 6690 NC-215, Balsam Grove NC (35.2280, -82.9070) \u2014 roadside triple falls, nearly always empty",
+      "Devil's Courthouse Overlook \u2014 BRP MP 422.4 (35.3054, -82.8993) \u2014 view from the lot",
+      "Pounding Mill Overlook \u2014 BRP MP 413.2 (35.3324, -82.7669) \u2014 huge, empty; the secret smoke-spot of the Parkway section",
+      "Looking Glass Rock Overlook \u2014 BRP MP 417",
+      "Linville Falls Visitor Center \u2014 BRP MP 316.5 spur (open; 0.5-mi walk to Upper Falls view)",
+      "US-221 Yonahlossee Trail under Linn Cove Viaduct, Grandfather Mountain",
+      "Grandview Main Overlook, New River Gorge NP \u2014 4700 Grandview Rd, Beaver WV (37.832, -81.062) \u2014 sunset finale, drive-up",
+      "NEXT MORNING: Fayette Station Road \u2014 8-mi one-way paved switchback drive to the gorge floor under the NRG Bridge (confirmed open, start at Canyon Rim Visitor Center)",
+      "NEXT MORNING: Summersville Lake \u2014 Long Point / Summersville Lake State Park (WV's newest state park, opened 2023) \u2014 gin-clear water, quiet sandstone coves, 35 min north of Fayetteville on US-19"
+    ],
+    "hotelOutlook": "STRONG, but in Beckley, not Fayetteville. Best match: Fairfield Inn & Suites Beckley (I-77 exit 44, Harper Rd) \u2014 opened June 2025, so it is a true new-build Marriott, 95 rooms, free surface lot, night-of Monday rates typically $150-185. Backup 1: Tru by Hilton Beckley (162 Neptune Dr, opened ~2020-21), usually $120-150, surface parking. Backup 2: Courtyard Beckley (older but renovated). Fayetteville itself has NO new-build chains \u2014 Quality Inn New River Gorge is dated, and the boutique Hill Hall Hotel is only 'coming summer 2026' (unreliable for night-of July 6). Summersville has only an aging Hampton Inn (renovated 2019, ~$130-150). Monday-night availability in Beckley post-holiday weekend: essentially guaranteed.",
+    "concerns": [
+      "Hurricane Helene closures verified via NPS (July 2026): BRP closed MP 355.3-333.9 and 324.7-317.5 until late 2026 \u2014 the classic Craggy Gardens \u2192 Mount Mitchell \u2192 Linville Falls through-drive is impossible. Mount Mitchell becomes a ~2.3-hour dead-end out-and-back and MUST be cut; Richland Balsam (MP 431) is another 35-min out-and-back south of Beech Gap and should also be cut. This trims the plan to the stated 9.8 driving hours.",
+      "Even trimmed, this is the corridor's weakness: ~9.8 hr driving + breaks = 11.5-12 hr elapsed, arriving Beckley ~8:30pm \u2014 over the 10-hr-day target. The only further trim that saves real time (~1 hr) is dropping the Linville Falls/Grandfather/Boone leg and running Asheville \u2192 I-26/I-81/I-77, which sacrifices significant scenery.",
+      "The last ~3 hours (Boone \u2192 Beckley) are interstate slog with fatigue and possible dusk arrival; the New River Gorge payoff mostly lands the NEXT morning (Fayette Station Rd, Grandview, Summersville Lake), so judge this corridor partly as a 1.5-day product.",
+      "Linn Cove Viaduct BRP section closed (2026 construction, MP 299.9-302.8) \u2014 you drive under it on US-221, not over it.",
+      "Linville Falls requires a ~1-mi round-trip walk for a real view \u2014 the day's only stop that violates the no-hike rule.",
+      "Afternoon thunderstorm risk is highest exactly when you're at 5,000-6,000 ft on the Parkway (2-5pm); fog can erase overlook views.",
+      "Dry Falls parking is small; after ~11:30am expect circling. Graveyard Fields is the region's most crowded lot.",
+      "Beckley is a functional interstate town, not charming \u2014 the trade for a brand-new $150-185 Fairfield with a surface lot."
+    ],
+    "pitch": "This corridor front-loads the exact things this driver loves \u2014 a walk-behind waterfall (Dry Falls), a drive-up 411-footer (Whitewater), and an empty roadside triple falls on NC-215 that nobody else stops at \u2014 then serves the best open stretch of the Blue Ridge Parkway (Beech Gap to Asheville: Devil's Courthouse, Pounding Mill) on flawless pavement built for a big M Sport sedan. The Helene closures actually help the crowd-averse: cutting Mount Mitchell keeps the day honest at ~9.8 driving hours, and the finale is a brand-new June-2025 Fairfield Inn in Beckley at $150-185 with a surface lot, 20 minutes from Grandview's usually-deserted 1,400-ft rim overlook at sunset. The catch is the shape of the day \u2014 a 3-hour interstate slog at the end and a total elapsed day nearer 12 hours than 10 \u2014 and the fact that the New River Gorge's best moments (Fayette Station Road's paved switchbacks, Summersville Lake's clear quiet coves at the new 2023 state park) really belong to the next morning. If the judge wants one huge day plus a spectacular secluded morning after, this wins; if the day must strictly end in 10 hours, it needs the Linville leg amputated."
+  },
+  {
+    "corridor": "Seneca SC \u2192 Tallulah Gorge GA \u2192 US-76 mountain corridor (Hiawassee/Blairsville) \u2192 TN-68 Hiwassee highlands (chosen over the crowded Ocoee raft gorge) \u2192 Bald River Falls \u2192 Cherohala Skyway (full 43 mi) \u2192 Tail of the Dragon (US-129) \u2192 Foothills Parkway West \u2192 I-75 N to Corbin KY (Cumberland Falls next morning)",
+    "terminus": "Corbin, KY (I-75 exit 29, Arena District) \u2014 deliberately NOT pushing to Lexington, which adds 1h40 of dull interstate",
+    "totalDriveHours": 9.8,
+    "sceneryScore": 8,
+    "roadFunScore": 9,
+    "seclusionScore": 8,
+    "crowdRisk": "Low-moderate. Cherohala, TN-68, and Foothills Parkway are genuinely empty on a post-July-4 Monday. Watch points: Bald River Falls has seen heavy visitation since its May 2025 reopening (Monday 2:30pm should be tolerable, not private); the Dragon will still have motorcycles even on Monday; Tallulah Gorge north rim is fine at 10:30am on a Monday. Ocoee Gorge (raft-bus mayhem in July) is deliberately routed around. Zero Gatlinburg exposure.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (depart 9:00-9:15am)",
+        "to": "Tallulah Gorge State Park, GA (Jane Hurt Yarn Center, 34.7399, -83.3922)",
+        "route": "US-76 W through Westminster and Long Creek SC to Clayton GA, then US-441 S 3 mi",
+        "driveMin": 65,
+        "highlight": "North Rim Overlooks 1-3: 1,000-ft gorge and Tempesta/Hurricane Falls visible 2-3 min from the parking lot. $5 GA parks parking. 15 min, done."
+      },
+      {
+        "from": "Tallulah Falls GA",
+        "to": "Bell Mountain Park, Hiawassee GA (34.9600, -83.7091)",
+        "route": "US-441 N to Clayton, US-76 W over the ridges to Hiawassee, then 2.5-mi paved (steep, narrow) Bell Mountain summit spur",
+        "driveMin": 65,
+        "highlight": "THE smoke-spot of the day: drive-up summit deck 1,400 ft above Lake Chatuge, 360-degree view, usually deserted on a weekday morning. Exactly the deserted-dead-end vibe of the Lake Hartwell dock."
+      },
+      {
+        "from": "Hiawassee GA",
+        "to": "Tellico Plains TN (fuel + quick lunch at Tellicafe)",
+        "route": "US-76 W through Young Harris/Blairsville, GA-515 to Blue Ridge, GA-5 through McCaysville/Ducktown, then TN-68 N \u2014 40 mi of empty, well-paved ridge sweepers past Coker Creek",
+        "driveMin": 140,
+        "highlight": "TN-68 is the sleeper road of the trip: Cherohala-lite with zero traffic. Optional 10-min detour at TN-30 to the Hiwassee River at Reliance (Webb Bros. Store, 35.1866, -84.5087). FILL THE TANK in Tellico Plains \u2014 no gas for the next 70 mountain miles."
+      },
+      {
+        "from": "Tellico Plains TN",
+        "to": "Bald River Falls (35.3208, -84.1740)",
+        "route": "TN-165 E 5 mi, right on Tellico River Rd / FR-210 \u2014 6 mi, fully paved, riverside",
+        "driveMin": 25,
+        "highlight": "90-ft waterfall you view from the road bridge \u2014 zero walking. Bridge and road rebuilt, reopened May 30, 2025, pavement is fresh. The definitive drive-up waterfall in the East."
+      },
+      {
+        "from": "Bald River Falls (backtrack 6 mi to TN-165)",
+        "to": "Santeetlah Gap NC via the full Cherohala Skyway",
+        "route": "TN-165 E becoming NC-143 E \u2014 43 mi cresting 5,390 ft",
+        "driveMin": 95,
+        "highlight": "The centerpiece: wide lanes, flawless pavement, third-gear sweepers, often no other car in sight. Stops: Indian Boundary Lake paved 1-mi spur (FR-345, 35.3979, -84.1069 \u2014 quiet mountain lake, likely empty), Turkey Creek Overlook, and Santeetlah Overlook (5,390 ft, highest point). Time includes 2-3 overlook pulls."
+      },
+      {
+        "from": "Santeetlah Gap NC",
+        "to": "Deals Gap NC/TN line",
+        "route": "NC-143 E down to Robbinsville outskirts, US-129 N along Cheoah River",
+        "driveMin": 40,
+        "highlight": "Cheoah Dam roadside pull-off (35.4472, -83.9381) \u2014 the dam Harrison Ford jumped off in The Fugitive, right on the highway, rarely anyone there."
+      },
+      {
+        "from": "Deals Gap",
+        "to": "Chilhowee TN (Foothills Pkwy west entrance)",
+        "route": "Tail of the Dragon \u2014 US-129 N, 11 mi, 318 curves",
+        "driveMin": 30,
+        "highlight": "Honest verdict for a 7 Series: drive it at cruise pace and it is scenic and fine; try to attack it and it is miserable \u2014 relentless 2nd-gear hairpins, no shoulders, bikes cutting apexes. It is also simply the connecting road north, so take it. Pull-off: Calderwood Lake overlook mid-Dragon. Trucks are banned (30-ft limit), so no motorhome roadblocks."
+      },
+      {
+        "from": "Chilhowee TN",
+        "to": "Walland TN",
+        "route": "Foothills Parkway West, 17 mi",
+        "driveMin": 35,
+        "highlight": "Look Rock overlook platforms (7 mi in, 35.6338, -83.9418) \u2014 full Smokies crest panorama from the parking area; NPS-grade pavement, gentle sweepers, near-empty at 6pm on a Monday."
+      },
+      {
+        "from": "Walland TN",
+        "to": "TownePlace Suites Corbin KY (157 Arena Dr, I-75 exit 29)",
+        "route": "US-321 N to Maryville, US-129 N, I-140 W, I-75 N ~90 mi",
+        "driveMin": 130,
+        "highlight": "Decompression interstate leg; arrive ~8:15-8:45pm, right at sunset (8:52pm). Cumberland Falls (36.8404, -84.3439) is a 30-min run from the hotel \u2014 do it TUESDAY 8:00am when the overlooks are empty, not tonight."
+      }
+    ],
+    "keyStops": [
+      "Tallulah Gorge North Rim Overlooks, Jane Hurt Yarn Center, Tallulah Falls GA (34.7399, -83.3922)",
+      "Bell Mountain Park, Hiawassee GA \u2014 drive-up summit deck over Lake Chatuge (34.9600, -83.7091)",
+      "Bald River Falls, Tellico River Rd, Tellico Plains TN (35.3208, -84.1740) \u2014 reopened May 2025",
+      "Indian Boundary Lake spur off Cherohala Skyway, FR-345 (35.3979, -84.1069)",
+      "Santeetlah Overlook, Cherohala Skyway NC-143, 5,390 ft (35.3496, -83.9445)",
+      "Cheoah Dam ('The Fugitive' dam) pull-off, US-129 Tapoco NC (35.4472, -83.9381)",
+      "Look Rock Overlook, Foothills Parkway West (35.6338, -83.9418)",
+      "Cumberland Falls State Resort Park, Corbin KY (36.8404, -84.3439) \u2014 Tuesday 8am, 30 min from hotel"
+    ],
+    "hotelOutlook": "Excellent \u2014 arguably the best terminus-hotel match of any corridor. TownePlace Suites by Marriott Corbin (157 Arena Dr, off I-75 exit 29) opened June 2025: brand-new Marriott build, free flat surface lot beside the Corbin Arena, full kitchens, hot breakfast, typical Monday rates ~$140-175 \u2014 squarely in band. Night-of availability on a post-holiday Monday in Corbin is very low risk. Backups within 10 min: Hampton Inn Corbin (older but solid) and Holiday Inn Express Corbin, both with surface lots, $120-160. Lexington has more new-builds (AC, Home2, Tru) at similar prices but costs 1h40 more interstate and forfeits the Cumberland Falls morning.",
+    "concerns": [
+      "Pure driving is ~9.8h; with the mandated 15-min breaks plus a quick lunch this is an ~11-hour door-to-door day (9:15am to ~8:30pm). It fits July daylight but overshoots the 10-hour target \u2014 the trim lever is skipping Bell Mountain (-25 min) or Bald River Falls (-40 min), both painful.",
+      "NO MOONBOW on July 6: 2026 July moonbow window is July 27-31 (full moon). Cumberland Falls is still a genuine 125-ft-wide cascade worth Tuesday morning, but the signature nighttime event is off the table.",
+      "Cumberland Falls cannot realistically happen the same evening \u2014 it slips to Tuesday 8am, so the corridor's Kentucky headliner is technically outside the travel day.",
+      "The Tallulah-to-Tellico Plains transit (~2h20) is the corridor's dead weight: pretty but ordinary US-76 with occasional slow trailer traffic through Hiawassee/Blairsville.",
+      "Afternoon thunderstorm risk: the Cherohala at 5,400 ft can sit inside a cloud at 3-4pm in July, erasing every overlook; check radar at Tellico Plains and be ready to run the Skyway without stops.",
+      "Tail of the Dragon in a 4,400-lb 7 Series is work, not joy \u2014 recommend cruise pace; Monday will still have motorcycle traffic, and I-40 Helene repairs (one-lane at the TN/NC line) are pushing extra regional traffic onto US-129/US-411 corridors even though trucks are banned from the Dragon itself.",
+      "Bald River Falls has been mobbed since its May 2025 reopening; a Monday 2:30pm slot should be manageable but it will not be a private moment.",
+      "Bell Mountain's paved summit spur is steep and narrow \u2014 fine for the 7 Series driven gently, but oncoming-car squeezes are possible."
+    ],
+    "pitch": "This corridor stacks the single best big-sedan road in the East \u2014 43 miles of empty, freshly-paved Cherohala sweepers cresting 5,390 ft \u2014 between a drive-up 90-ft waterfall (Bald River Falls, reopened May 2025 on brand-new pavement) and the Smokies-panorama Foothills Parkway, while surgically avoiding every tourist trap: no Gatlinburg, no Ocoee raft buses, and the Dragon taken as a scenic connector rather than a mission. The seclusion hits are real and effortless: a deserted drive-up summit deck 1,400 feet above Lake Chatuge, a quiet paved dead-end at Indian Boundary Lake, and the Fugitive's Cheoah Dam with nobody around. It ends at a June-2025-built TownePlace Suites in Corbin at ~$150 with a free surface lot, positioning a 30-minute empty-overlook run to Cumberland Falls at 8am Tuesday. The honest costs: an 11-hour door-to-door day, a 2h20 transit slog through north Georgia to reach the good stuff, and no moonbow on July 6 \u2014 but for a driver who defines a great day as sweepers, waterfalls, and empty overlooks, this is the profile-fit ceiling."
+  },
+  {
+    "corridor": "Blue Ridge Escarpment (Whitewater Falls/SC-130) -> Brevard waterfall country (US-64/US-276) -> Asheville interstate bypass -> Linville/Linn Cove Viaduct BRP remnant -> Boone bypass -> Grayson Highlands VA -> VA-16 Back of the Dragon (Marion-Tazewell) -> Burke's Garden -> Wytheville VA",
+    "terminus": "Wytheville, VA (I-77/I-81 junction)",
+    "totalDriveHours": 9.8,
+    "sceneryScore": 9,
+    "roadFunScore": 9,
+    "seclusionScore": 9,
+    "crowdRisk": "Low-to-moderate, front-loaded: Looking Glass Falls and the Linn Cove/Blowing Rock area will still carry July-4th-week spillover on Monday afternoon (roadside falls + easiest BRP access = busiest spots on the route), and Massie Gap's lot can fill midafternoon in July. Everything after the Virginia line trends empty: VA-16 through Troutdale, Back of the Dragon on a Monday (some motorcycle traffic), VA-61 Wolf Creek valley, and Burke's Garden are among the emptiest scenic roads in the eastern US. Net: the driver escapes crowds progressively all day, ending in near-total solitude.",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites Seneca SC (dep ~9:30am)",
+        "to": "Upper Whitewater Falls overlook, NC (35.0295, -83.0161)",
+        "route": "SC-130 N -> NC-281 (Whitewater Falls Rd)",
+        "driveMin": 55,
+        "highlight": "411-ft Whitewater Falls, highest east of the Rockies, via a 0.2-mi paved path from the lot ($3); near-empty at 10:30am Monday. USFS confirms open (Jan 2026 update), restrooms unavailable."
+      },
+      {
+        "from": "Whitewater Falls",
+        "to": "Looking Glass Falls, Pisgah NF (35.2963, -82.7674)",
+        "route": "NC-281 N -> US-64 E (Toxaway Falls pull-off, 35.1230, -82.9310) -> Rosman -> US-276 N",
+        "driveMin": 70,
+        "highlight": "Toxaway Falls pours directly under the US-64 bridge (2-min bonus stop); Looking Glass Falls is a true drive-up roadside 60-footer \u2014 the one crowd-tolerance test of the day."
+      },
+      {
+        "from": "Looking Glass Falls",
+        "to": "Marion, NC (I-40 exit 85)",
+        "route": "US-276 S -> NC-280 E -> I-26 E/I-240/I-40 E (Asheville bypass)",
+        "driveMin": 80,
+        "highlight": "Deliberate transit leg: skips Asheville entirely and skips the BRP Pisgah section to bank time (BRP MP 355-382 is open but dead-ends at the Helene closure, so it is an out-and-back not worth the hour)."
+      },
+      {
+        "from": "Marion, NC",
+        "to": "Blowing Rock, NC",
+        "route": "US-221 N -> BRP north from MP 317.5 across Linn Cove Viaduct (MP 304.4), turn at Rough Ridge closure gate (MP 302.8), exit US-221 at MP 305.2 -> US-221 N (Yonahlossee Rd)",
+        "driveMin": 85,
+        "highlight": "The surviving Parkway jewel: Linn Cove Viaduct hugging Grandfather Mountain, then US-221 Yonahlossee \u2014 miles of smooth, banked sweepers under Grandfather that are arguably better 7-Series roads than the Parkway itself. BRP MP 317.5-355.3 closed (Helene, reopening late 2026); MP 299.9-302.8 closed (construction to fall 2026) \u2014 verified via NPS road-status page."
+      },
+      {
+        "from": "Blowing Rock",
+        "to": "Massie Gap, Grayson Highlands SP, VA (36.6339, -81.5083)",
+        "route": "US-321/US-421 around Boone -> NC-194 -> US-221 N through West Jefferson -> NC-16/VA-16 N to Mouth of Wilson -> US-58 W -> park road 3.4 mi to Massie Gap",
+        "driveMin": 95,
+        "highlight": "Climb to ~4,650 ft: open highland meadows right at the parking lot ($10/car); ponies sometimes graze within sight of the lot in early evening, but a guaranteed pony encounter needs a 1-2 mi walk. Empty-lot alternative that better fits the no-hike rule: Elk Garden on paved VA-600 (36.6465, -81.5832), a silent 4,434-ft meadow gap with almost nobody there."
+      },
+      {
+        "from": "Massie Gap",
+        "to": "Marion, VA",
+        "route": "US-58 E -> Volney -> VA-16 N over Iron Mountain through Troutdale",
+        "driveMin": 60,
+        "highlight": "The 'lower dragon' \u2014 VA-16's southern half is itself a tight, wooded, essentially traffic-free warm-up over Iron Mountain."
+      },
+      {
+        "from": "Marion, VA",
+        "to": "Tazewell, VA",
+        "route": "VA-16 N \u2014 Back of the Dragon (32 mi, 400+ curves, three mountain crossings)",
+        "driveMin": 65,
+        "highlight": "Virginia's only officially designated driving road: switchbacks, slaloms and summit pull-offs on Walker/Brushy/Clinch mountains with long views; well-paved and maintained. Honest note: the tightest hairpins are first-gear work in a 5,000-lb sedan \u2014 this is rhythm-and-sweeper fun, not a light car's playground. Passes Hungry Mother SP lake (quiet quick stop option) at the start."
+      },
+      {
+        "from": "Tazewell, VA",
+        "to": "Burke's Garden (37.0876, -81.3266)",
+        "route": "US-19/460 E -> VA-61 E ~8 mi -> VA-623 S (Burkes Garden Rd, PAVED northern entrance) over Garden Mountain",
+        "driveMin": 35,
+        "highlight": "The day's crown seclusion prize: crest VA-623 and the entire 'God's Thumbprint' crater-valley opens below \u2014 then drift the empty paved valley loop past Amish farms at ~7pm golden hour with genuinely nobody around. Exactly the 'private place to park and take in a huge view' brief. Do NOT exit via the southern VA-623 (dirt over Brushy Mountain \u2014 wrong road for this car)."
+      },
+      {
+        "from": "Burke's Garden",
+        "to": "Wytheville, VA",
+        "route": "VA-623 N back over Garden Mtn -> VA-61 E along Wolf Creek (gorgeous, empty pastoral valley) -> I-77 S at Rocky Gap (exit 64) -> I-81/US-52 to exit 73",
+        "driveMin": 90,
+        "highlight": "VA-61 along Wolf Creek is a bonus: 19 miles of smooth, deserted valley road at dusk, then easy interstate finish. Arrival roughly 9:00-9:45pm."
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls overlook \u2014 35.0295, -83.0161 ('Whitewater Falls, NC-281, Sapphire NC'); 0.2-mi paved path, $3",
+      "Toxaway Falls US-64 pull-off \u2014 35.1230, -82.9310 (falls slide beneath the highway bridge)",
+      "Looking Glass Falls \u2014 35.2963, -82.7674 ('Looking Glass Falls, US-276, Pisgah Forest NC'); zero-walk roadside",
+      "Linn Cove Viaduct / Rough Ridge parking \u2014 36.0946, -81.8130 (BRP MP 302.8-304.4); viaduct + Grandfather Mtn views steps from car",
+      "US-221 Yonahlossee Road sweepers, Grandfather Mtn to Blowing Rock (drive-through highlight)",
+      "Massie Gap, Grayson Highlands State Park \u2014 36.6339, -81.5083 ($10; meadows at the lot, ponies usually a walk away)",
+      "Elk Garden, VA-600 \u2014 36.6465, -81.5832 (paved, near-empty high-meadow gap; the better 'nobody there' pony-country stop)",
+      "Back of the Dragon summit pull-offs on VA-16 over Walker Mountain (search 'Back of the Dragon, VA-16, Tazewell VA'); Hungry Mother SP lake at the Marion end",
+      "Burke's Garden crest view on VA-623 + valley loop \u2014 37.0876, -81.3266 ('Burke's Garden General Store, Tazewell VA')",
+      "VA-61 Wolf Creek valley between Burke's Garden turnoff and Rocky Gap (deserted dusk cruise)"
+    ],
+    "hotelOutlook": "Good on price and parking, imperfect on age. Wytheville is an interstate-junction hotel hub with soft post-holiday Monday rates: Tru by Hilton Wytheville (245 Boyd Ave, opened July 2019 \u2014 modern prototype, free surface lot, typically $120-160) is the closest brand-and-vibe match; Holiday Inn Express & Suites Wytheville (165 Malin Dr, exit 73) is billed as the town's newest build, surface lot, ~$140-180; Fairfield Inn & Suites Wytheville is a 2008 build (renovated, ~$130-150). Night-of availability July 6 is essentially certain and everything is under budget with surface parking. Weakness: no true <5-year-old new-build in Wytheville, and Marion/Abingdon stock is older still; the only markedly newer inventory (Roanoke) adds ~1.25 h the wrong side of a long day.",
+    "concerns": [
+      "Time budget is the big one: realistic pure driving is ~9.5-10.5 h (Google shows ~9.3 h; twisty sections run ~80% of that pace), so with five 15-min stops plus food this is an ~11.5-12 h day arriving Wytheville 9:00-9:45pm \u2014 over the 10-h target. Pre-planned relief valves: skip the Massie Gap detour (-0.5 h) or, reluctantly, Burke's Garden (-1.1 h), or end at Tru/Fairfield in Princeton WV instead of Wytheville (-0.4 h).",
+      "The 'Blue Ridge Parkway north past Linville and Boone' element is badly degraded in July 2026: MP 317.5-355.3 closed for Helene repairs (reopening late 2026) and MP 299.9-302.8 closed for construction (fall 2026), leaving only a ~13-mile open segment around Linn Cove Viaduct driven as an out-and-back; check nps.gov/blri road status the morning of.",
+      "Grayson wild ponies usually require a 1-2 mile walk from Massie Gap \u2014 a 15-minute, no-hike stop may deliver only (spectacular) meadow views, not guaranteed ponies; this is the corridor's biggest promise-vs-profile gap.",
+      "Back of the Dragon's tightest hairpins (Clinch Mountain end) are heavy work in a long-wheelbase 7 Series and the road draws motorcycle groups even midweek in summer; typical southern-Appalachian afternoon thunderstorms can bring fog to the three summits right when the car arrives (~5-6pm).",
+      "No hotel at the terminus opened within the last 5 years; the best match (Tru Wytheville) is a 2019 build \u2014 modern but 7 years old.",
+      "Dinner logistics are thin: Burke's Garden has no evening food (general store keeps limited daytime hours) and Tazewell/Bland options close early, so dinner is fast-casual in Wytheville near 9:30pm or a packed cooler.",
+      "Front half of the day (Looking Glass Falls, Linn Cove, Blowing Rock) still carries July-4th-week crowd spillover \u2014 the corridor's crowd relief only fully kicks in after the Virginia line."
+    ],
+    "pitch": "This is the anti-Gatlinburg corridor: it opens with two essentially drive-up spectacle waterfalls (411-ft Whitewater, roadside Looking Glass), threads the one surviving jewel of the Helene-battered Parkway \u2014 the Linn Cove Viaduct plus the gloriously swoopy US-221 Yonahlossee road \u2014 and then spends its entire second half in the emptiest, highest corner of Virginia, where the roads (VA-16 both halves, VA-61, VA-623) were seemingly engineered for a big M Sport sedan and traffic simply stops existing. The finale is unmatched for this driver: 32 miles of Back of the Dragon into a golden-hour descent through paved switchbacks into Burke's Garden, a hidden crater valley of Amish farms where he can park on the crest, watch the light, and see nobody \u2014 yesterday's deserted Lake Hartwell dock, scaled up to an entire landscape. The honest costs: it runs ~2 hours over his 10-hour day unless one module is cut, the ponies technically require a short walk, and the Wytheville hotel is a 2019 Tru rather than a 2024 build \u2014 but every dollar and minute buys exactly the seclusion, pavement quality, and jaw-drop-per-step ratio he asked for."
+  },
+  {
+    "corridor": "Seneca SC \u2192 Whitewater Falls \u2192 US-64 Cullasaja Gorge waterfall corridor (Highlands\u2013Franklin) \u2192 Bryson City & the Road to Nowhere \u2192 NC-28 Hellbender along Fontana/Cheoah Lakes \u2192 Fontana Dam \u2192 Cherohala Skyway westbound \u2192 Foothills Parkway (classic + new sections, Look Rock) \u2192 Townsend 'peaceful side' \u2192 Maryville/Alcoa TN",
+    "terminus": "Maryville/Alcoa TN (Springbrook Farm hotel cluster; Townsend itself has no new-build branded hotels in budget, Knoxville adds urban parking hassle)",
+    "totalDriveHours": 8.8,
+    "sceneryScore": 9,
+    "roadFunScore": 8,
+    "seclusionScore": 9,
+    "crowdRisk": "Low-to-moderate. This is structurally the anti-Gatlinburg route: Road to Nowhere, Fontana pull-offs, Cherohala overlooks and Look Rock are typically near-empty even in July, and Monday July 6 sheds holiday crowds. Real crowd points: Dry Falls parking lot midday (small lot, popular), sportbike/exotic-car traffic where NC-28 meets Deals Gap and the Dragon, and Cades Cove Loop (open to cars Monday \u2014 it's Wednesdays that are vehicle-free in 2026 \u2014 but in July it's a 2-3 hour 10 mph crawl; SKIP the loop, the rest of the day out-secludes it anyway).",
+    "legs": [
+      {
+        "from": "Fairfield Inn & Suites, Seneca SC (dep ~9:15am)",
+        "to": "Highlands NC",
+        "route": "SC-130 N \u2192 NC-281 N (Whitewater Falls spur) \u2192 NC-107 N \u2192 US-64 W via Cashiers",
+        "driveMin": 85,
+        "highlight": "Upper Whitewater Falls (411 ft, highest east of the Rockies) \u2014 paved 0.2-mi stroll from the parking lot to the overlook, $3 fee, usually quiet on a Monday morning"
+      },
+      {
+        "from": "Highlands NC",
+        "to": "Franklin NC",
+        "route": "US-64 W, the Waterfall Byway through Cullasaja Gorge",
+        "driveMin": 40,
+        "highlight": "Three waterfalls in 15 miles: Bridal Veil Falls (roadside, walk behind it), Dry Falls (walk BEHIND the waterfall, 5 min from lot), Cullasaja Falls (250-ft cascade at a tight cliff-edge pull-off)"
+      },
+      {
+        "from": "Franklin NC",
+        "to": "Bryson City NC",
+        "route": "US-441 N \u2192 US-74 W (fast 4-lane; fuel + early lunch stop \u2014 last real town before Tellico Plains)",
+        "driveMin": 40,
+        "highlight": "Refuel the 7 Series here; Bryson City is a pleasant non-touristy railroad town for a quick lunch"
+      },
+      {
+        "from": "Bryson City NC",
+        "to": "Road to Nowhere tunnel and back (out-and-back)",
+        "route": "Everett St \u2192 Fontana Rd \u2192 Lakeview Drive to its dead end",
+        "driveMin": 45,
+        "highlight": "The signature seclusion stop: 6.5-mile dead-end road INSIDE the national park, completely repaved 2024-25 (glass-smooth), Fontana Lake overlooks, ends at the 1,200-ft abandoned tunnel you can walk into \u2014 famously empty"
+      },
+      {
+        "from": "Bryson City NC",
+        "to": "Fontana Dam",
+        "route": "US-74 W \u2192 NC-28 S/W \u2014 the Hellbender 28 \u2014 along Fontana Lake",
+        "driveMin": 55,
+        "highlight": "Sweepers over lake views; optional 10-min spur to Cable Cove Boat Ramp \u2014 a lonely lakeside ramp that replicates yesterday's deserted-dock moment (short smooth gravel, sedan-safe). Walk across Fontana Dam, tallest dam in the East (480 ft)"
+      },
+      {
+        "from": "Fontana Dam",
+        "to": "Robbinsville NC",
+        "route": "NC-28 W along Cheoah Lake \u2192 2-min peek at Cheoah Dam on US-129 (the 'Fugitive' dam) \u2192 US-129 S",
+        "driveMin": 45,
+        "highlight": "Cheoah Lake is glassy and jade-green with empty pull-offs; Cheoah Dam is the dam Harrison Ford jumped off in The Fugitive"
+      },
+      {
+        "from": "Robbinsville NC",
+        "to": "Tellico Plains TN",
+        "route": "NC-143 W \u2192 Cherohala Skyway (TN-165) westbound, 43 miles, crest 5,390 ft",
+        "driveMin": 85,
+        "highlight": "The best BMW road of the day: wide, immaculately paved sweepers with almost no traffic and a dozen empty mile-high overlooks \u2014 Santeetlah Overlook (5,390 ft) and Brushy Ridge are the picks"
+      },
+      {
+        "from": "Tellico Plains TN",
+        "to": "Foothills Parkway west entrance at Chilhowee (US-129)",
+        "route": "TN-360 N \u2192 TN-72 N \u2192 US-129 N along Chilhowee Lake",
+        "driveMin": 55,
+        "highlight": "Optional +30 min: Bald River Falls, a 90-ft waterfall you literally view from the car on a paved bridge (River Rd off TN-165) \u2014 tailor-made for this driver"
+      },
+      {
+        "from": "Chilhowee (US-129)",
+        "to": "Walland TN via Foothills Parkway classic section",
+        "route": "Foothills Parkway E \u2014 17 smooth NPS miles",
+        "driveMin": 35,
+        "highlight": "Look Rock Overlook + 0.5-mi paved path to the observation tower \u2014 360\u00b0 Smokies view, usually a handful of people at most"
+      },
+      {
+        "from": "Walland TN",
+        "to": "Wears Valley overlook and back (optional new 2018 'missing link' section)",
+        "route": "Foothills Parkway E out-and-back, 16 mi each way",
+        "driveMin": 50,
+        "highlight": "The newest, smoothest pavement in the park with the best Smokies-crest views; skip if behind schedule or if afternoon storms build"
+      },
+      {
+        "from": "Walland TN",
+        "to": "Home2 Suites / Fairfield Inn, Alcoa-Maryville TN (via Townsend spur if desired)",
+        "route": "US-321 \u2192 TN-33/Alcoa Hwy (optional 15-min detour through Townsend's 'peaceful side' first)",
+        "driveMin": 25,
+        "highlight": "Roll into Springbrook Farm around 7:30-8:00pm with 45+ min of daylight to spare (sunset ~8:50pm)"
+      }
+    ],
+    "keyStops": [
+      "Upper Whitewater Falls Overlook, NC-281, Sapphire NC (35.0296, -83.0159)",
+      "Dry Falls, US-64, Highlands NC (35.0681, -83.2387) \u2014 walk behind the falls",
+      "Bridal Veil Falls, US-64, Highlands NC (35.0757, -83.2325)",
+      "Cullasaja Falls pull-off, US-64 (35.1150, -83.2860) \u2014 tight shoulder, park nose-in carefully",
+      "Road to Nowhere Tunnel, end of Lakeview Drive, Bryson City NC (~35.461, -83.538)",
+      "Cable Cove Boat Ramp, Fontana Lake, NC-28 (secluded lakeside dead-end, ~35.436, -83.765)",
+      "Fontana Dam Visitor Center, Fontana Dam NC (35.4518, -83.8046) \u2014 open 9am-6pm daily in summer",
+      "Cheoah Dam ('The Fugitive' dam), US-129 at Tapoco NC (35.4519, -83.9385)",
+      "Santeetlah Overlook, Cherohala Skyway (5,390 ft, highest point, NC side)",
+      "Bald River Falls, River Road, Tellico Plains TN (35.2740, -84.1750) \u2014 true drive-up waterfall",
+      "Look Rock Overlook & Tower, Foothills Parkway, Walland TN",
+      "Townsend Wye / Little River, Townsend TN (optional riverside toe-dip on the 'peaceful side')"
+    ],
+    "hotelOutlook": "Strong at the Alcoa/Maryville terminus, weak in Townsend itself. Best match: Home2 Suites by Hilton Alcoa Knoxville Airport (1864 Pauling St, Springbrook Farm \u2014 opened ~2023, free surface lot, typically $140-180 midweek). Backup 100 yards away: Fairfield by Marriott Inn & Suites Knoxville Airport Alcoa (1865 Pauling St, opened Aug 2020 \u2014 just past the 5-year preference but still crisp, ~$130-165). A new Holiday Inn Express is coming/open in downtown Maryville (~2025). Monday-night walk-in availability after a holiday weekend should be easy at these airport-adjacent new-builds. Townsend itself offers only older motels or the Ofland Great Smoky Mountains resort (2025 opening, but cabin-resort format usually over $200). Knoxville (25 min further) has abundant new Marriott/Hilton stock but means downtown garages \u2014 stay in Alcoa.",
+    "concerns": [
+      "US-64 through Cullasaja Gorge is narrow, cliff-hugging, with recurring NCDOT emergency repairs and one-lane signal sections (a lane closure was active in the area as recently as Feb 2026) \u2014 check DriveNC.gov the morning of departure; the Cullasaja Falls pull-off is genuinely tight for a 7 Series",
+      "Sportbike and exotic-car traffic clusters where NC-28 meets US-129/Deals Gap; Monday after July 4 will still have riders \u2014 expect fast bikes mid-corner on the Hellbender's western miles",
+      "Afternoon thunderstorms (typical 2-5pm) can put fog and standing water on the mile-high Cherohala; timing puts the driver there ~3:30-5pm, the riskiest window \u2014 be ready to slow way down or wait one out at an overlook",
+      "Fuel and cell-service desert from Franklin/Bryson City to Tellico Plains (no gas on NC-28 past Stecoah or on the Cherohala) \u2014 fill up in Franklin or Bryson City, download offline maps",
+      "Cades Cove Loop is open to cars on Monday July 6 (2026 vehicle-free days are Wednesdays, May 6-Sep 30) but is a 2-3 hour crawl in July that violates the crowd-hating profile \u2014 recommend skipping it entirely; this costs the corridor its only marquee wildlife-valley experience",
+      "Total day is FULL, not thin: ~8.8 h driving + 6-7 stops means an 11-hour door-to-door day; contrary to the brief, do NOT add Max Patch or Hot Springs NC \u2014 they are 100+ miles off this corridor's axis and geographically incompatible; if trimming is needed, drop the Wears Valley out-and-back (-50 min) and/or Whitewater Falls (-25 min)",
+      "Fairfield Alcoa opened Aug 2020, technically just outside the 'within ~5 years' preference (Home2 next door, ~2023, is the cleaner fit)",
+      "Verify Cherohala Skyway and Foothills Parkway status day-of (fs.usda.gov alerts and nps.gov/grsm road updates) \u2014 both have flood/rockslide closure history (Cherohala 2023), though both have been fully reopened",
+      "Dry Falls has a small fee lot that fills 11am-3pm in summer; hitting it ~11am on a post-holiday Monday should be fine but not empty"
+    ],
+    "pitch": "This corridor is the driver profile turned into a route: it strings together the Southeast's best-paved empty driver's roads (Hellbender 28, the Cherohala's mile-high sweepers, the Foothills Parkway's NPS-smooth ribbons) while structurally avoiding every tourist trap \u2014 Gatlinburg is never within 25 miles. It is saturated with exactly the stops this driver loves: three near-road waterfalls in one 15-mile gorge, a drive-up 90-footer at Bald River, and above all the Road to Nowhere \u2014 a freshly repaved six-mile dead-end into the national park that ends at an abandoned tunnel over Fontana Lake, the platonic ideal of a secluded 'smoke spot,' with Cable Cove's lonely boat ramp as an encore of yesterday's Lake Hartwell moment. At ~8.8 hours of wheel time plus stops it fills the 10-11 hour window perfectly with no padding needed, and it ends at a brand-new Home2/Fairfield pair with free surface parking squarely in the $140-180 band. The honest trade-offs are a tight, repair-prone gorge road early, thunderstorm exposure on the Cherohala mid-afternoon, and skipping Cades Cove's wildlife loop to protect the no-crowds rule \u2014 a sacrifice this particular driver will thank you for."
+  }
+]
